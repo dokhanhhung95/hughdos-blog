@@ -7,4 +7,3 @@
 /feed/*               /rss.xml               301
 /feed                 /rss.xml               301
 /about/*              /gioi-thieu/           301
-/?s=*                 /tim-kiem/             301
