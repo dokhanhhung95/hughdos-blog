@@ -2,7 +2,7 @@
 # ⚠️ Sửa dòng "repo" thành <tên-tài-khoản-github>/<tên-repo> của anh.
 backend:
   name: github
-  repo: dokhanhhung95/hughdo-blog
+  repo: dokhanhhung95/hughdos-blog
   branch: main
   commit_messages:
     create: "Thêm bài: {{slug}}"
