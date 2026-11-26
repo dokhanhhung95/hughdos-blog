@@ -11,8 +11,8 @@ backend:
     uploadMedia: "Tải ảnh: {{path}}"
 
 locale: vi
-site_url: https://hughdos-blog.pages.dev
-display_url: https://hughdos-blog.pages.dev
+site_url: https://hughdo.com
+display_url: https://hughdo.com
 logo_url: /favicon.svg
 
 media_folder: public/images/uploads
