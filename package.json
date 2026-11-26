@@ -1,0 +1,14 @@
+{
+  "name": "hughdo-blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --serve",
+    "dev:drafts": "node build.mjs --serve --drafts"
+  },
+  "dependencies": {
+    "marked": "^18.0.0"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Hugh Do",
+  "tagline": "Game, Football, Design. Family & More",
+  "quote": "Pixel by pixel. Quest by quest. Match by match.",
+  "url": "https://hughdo.pages.dev",
+  "email": "dokhanhhung95@gmail.com",
+  "categories": [
+    { "slug": "game", "name": "Game", "description": "Cảm nhận về những tựa game mình chơi và hành trình tự học làm game." },
+    { "slug": "football", "name": "Football", "description": "Bóng đá qua góc nhìn của một fan Liverpool: những trận đấu, những con người, những câu chuyện." },
+    { "slug": "design", "name": "Design", "description": "Ghi chép từ công việc UX/UI: quy trình, công cụ và những bài học khi thiết kế sản phẩm." },
+    { "slug": "more", "name": "More", "description": "Gia đình, đồng hồ và những điều khác làm cuộc sống thú vị hơn." }
+  ],
+  "about": {
+    "heading_line1": "Xin chào,",
+    "heading_line2": "mình là Hugh.",
+    "intro": "Một UX/UI designer thích Pokémon, Zelda và đội bóng Liverpool. Đây là nơi mình ghi lại những thứ mình chơi, xem và làm."
+  }
+}

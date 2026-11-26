@@ -1,0 +1,10 @@
+/category/game/*      /chuyen-muc/game/      301
+/category/football/*  /chuyen-muc/football/  301
+/category/design/*    /chuyen-muc/design/    301
+/category/life/*      /chuyen-muc/more/      301
+/category/*           /tat-ca/               301
+/tag/*                /tat-ca/               301
+/feed/*               /rss.xml               301
+/feed                 /rss.xml               301
+/about/*              /gioi-thieu/           301
+/?s=*                 /tim-kiem/             301

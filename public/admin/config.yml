@@ -1,0 +1,82 @@
+# Trang quản trị nội dung (Sveltia CMS). Đăng nhập bằng tài khoản GitHub.
+# ⚠️ Sửa dòng "repo" thành <tên-tài-khoản-github>/<tên-repo> của anh.
+backend:
+  name: github
+  repo: TEN-TAI-KHOAN/hughdo-blog
+  branch: main
+  commit_messages:
+    create: "Thêm bài: {{slug}}"
+    update: "Sửa bài: {{slug}}"
+    delete: "Xoá bài: {{slug}}"
+    uploadMedia: "Tải ảnh: {{path}}"
+
+locale: vi
+site_url: https://hughdo.pages.dev
+display_url: https://hughdo.pages.dev
+logo_url: /favicon.svg
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: posts
+    label: Bài viết
+    label_singular: Bài viết
+    folder: content/posts
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{title}} · {{category}} · {{date}}"
+    sortable_fields: [date, title, category]
+    view_filters:
+      - { label: Game, field: category, pattern: game }
+      - { label: Football, field: category, pattern: football }
+      - { label: Design, field: category, pattern: design }
+      - { label: More, field: category, pattern: more }
+      - { label: Bản nháp, field: draft, pattern: true }
+    fields:
+      - { label: Tiêu đề, name: title, widget: string }
+      - { label: Ngày đăng, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "DD.MM.YYYY", time_format: false }
+      - label: Chuyên mục
+        name: category
+        widget: select
+        default: game
+        options:
+          - { label: Game, value: game }
+          - { label: Football, value: football }
+          - { label: Design, value: design }
+          - { label: More, value: more }
+      - { label: Thẻ, name: tags, widget: list, required: false, default: [] }
+      - { label: Ảnh bìa, name: cover, widget: image, required: false, hint: "Nên dùng ảnh ngang, rộng tối thiểu 1600px." }
+      - { label: Tóm tắt, name: excerpt, widget: text, required: false, hint: "Bỏ trống thì tự lấy đoạn đầu tiên." }
+      - { label: Bản nháp, name: draft, widget: boolean, default: false, required: false, hint: "Bật lên thì bài chưa hiện trên site." }
+      - { label: Nội dung, name: body, widget: markdown }
+
+  - name: settings
+    label: Cài đặt site
+    files:
+      - name: site
+        label: Thông tin chung
+        file: content/site.json
+        fields:
+          - { label: Tên site, name: title, widget: string }
+          - { label: Tagline, name: tagline, widget: string }
+          - { label: Câu quote trang chủ, name: quote, widget: string }
+          - { label: Địa chỉ site, name: url, widget: string }
+          - { label: Email, name: email, widget: string }
+          - label: Chuyên mục
+            name: categories
+            widget: list
+            allow_add: false
+            fields:
+              - { label: Mã (không sửa), name: slug, widget: string }
+              - { label: Tên hiển thị, name: name, widget: string }
+              - { label: Mô tả, name: description, widget: text }
+          - label: Trang giới thiệu
+            name: about
+            widget: object
+            fields:
+              - { label: Dòng 1, name: heading_line1, widget: string }
+              - { label: Dòng 2, name: heading_line2, widget: string }
+              - { label: Đoạn giới thiệu, name: intro, widget: text }
