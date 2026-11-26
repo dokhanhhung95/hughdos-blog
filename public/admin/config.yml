@@ -2,7 +2,7 @@
 # ⚠️ Sửa dòng "repo" thành <tên-tài-khoản-github>/<tên-repo> của anh.
 backend:
   name: github
-  repo: TEN-TAI-KHOAN/hughdo-blog
+  repo: dokhanhhung95/hughdo-blog
   branch: main
   commit_messages:
     create: "Thêm bài: {{slug}}"
@@ -11,8 +11,8 @@ backend:
     uploadMedia: "Tải ảnh: {{path}}"
 
 locale: vi
-site_url: https://hughdo.pages.dev
-display_url: https://hughdo.pages.dev
+site_url: https://hughdos-blog.pages.dev
+display_url: https://hughdos-blog.pages.dev
 logo_url: /favicon.svg
 
 media_folder: public/images/uploads
