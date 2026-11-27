@@ -97,19 +97,27 @@ Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shad
 
 ## Năm 3361: Nier
 
-**1.312 năm sau đoạn mở đầu** (bản Replicant là 1.412 năm), ở một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc Yonah. Cô bé mắc **Black Scrawl**, căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
+**1.412 năm sau** đoạn mở đầu ở Shinjuku, tại một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc em gái Yonah. Cô bé mắc Black Scrawl, căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
 
-Black Scrawl thực chất là dấu hiệu cho thấy Gestalt của Yonah gốc đang tái phát. Nói cách khác, Yonah Replicant bệnh vì Yonah gốc đang chết.
+Black Scrawl thực chất là dấu hiệu cho thấy linh hồn Gestalt của Yonah gốc đang dần sụp đổ. Nói cách khác, Yonah Replicant bệnh vì Yonah gốc đang chết.
 
-Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự chỉ dẫn của Devola và Popola. Hai chị em là những người tốt bụng nhất làng, hay ít nhất họ diễn vai đó rất giỏi. Rồi trong một ngôi đền bị phong ấn, Nier gặp **Grimoire Weiss**, cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các **Sealed Verses**, Weiss có thể chữa được Black Scrawl.
+Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự giúp đỡ của hai chị em song sinh Devola và Popola. Họ thật lòng yêu thương hai anh em, nhưng phía sau sự dịu dàng ấy là một sứ mệnh khác chưa từng nói ra. Một ngày nọ, khi đi tìm Yonah lén vào Đền thờ bị lãng quên để hái hoa Lệ Nguyệt, Nier gặp Grimoire Weiss — cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và đã mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các Sealed Verses, Weiss có thể chữa được Black Scrawl.
 
-Trên hành trình cứu em gái, Nier gặp hai người đồng hành: **Kainé** và **Emil.** **Kainé là** một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ. Cô sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô bị một Shade tên **Tyrann** chiếm giữ. Còn **Emil** là một cậu bé luôn bịt mắt, vì ánh nhìn của cậu biến mọi thứ thành đá. Emil sống một mình trong biệt thự lớn, bị dân làng sợ hãi. Cậu không biết rằng mình chính là **Thí nghiệm số 7** từ hơn một nghìn năm trước.
+Trên hành trình cứu em gái, Nier gặp hai người đồng hành: Kainé và Emil.
+
+Kainé là một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ. Cô sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô đang bị một Shade tên Tyrann chiếm giữ.
+
+Còn Emil là một cậu bé luôn bịt mắt, vì ánh nhìn của cậu biến mọi thứ thành đá. Emil sống tách biệt trong một căn biệt thự lớn cùng người quản gia trung thành, bị dân làng khiếp sợ. Cậu không biết rằng mình chính là Thí nghiệm số 7 từ hơn một nghìn năm trước.
 
 ![](/images/uploads/20261127-195035.png)
 
-Rồi biến cố xảy ra. Shadowlord tấn công làng, kéo theo một con Shade khổng lồ. Để phong ấn nó, Kainé chấp nhận để Emil **hoá đá chính mình**. Cũng trong ngày hôm đó, Shadowlord bắt Yonah đi mất.
+Khi Nier vừa thu thập đủ các Sealed Verses, tai hoạ bất ngờ ập xuống ngôi làng. Một con Shade khổng lồ dẫn đầu bầy quái vật tràn vào tấn công. Cả nhóm liều mạng chống trả, ép được nó lùi xuống tầng hầm thư viện.
 
-Nier mất cả hai người quan trọng nhất trong cùng một ngày.
+Nhưng cơn ác mộng thực sự lúc này mới bắt đầu. Ngay bên trong thư viện, Shadowlord xuất hiện cùng cuốn sách đen Grimoire Noir. Hắn tìm cách ép Weiss hợp nhất, nhưng Weiss kiên quyết chống cự. Shadowlord dễ dàng đánh gục Nier, rồi bắt cóc Yonah biến mất ngay trước mắt cậu.
+
+Cùng lúc đó, con Shade khổng lồ dưới hầm điên cuồng phá cửa xông ra. Không còn đủ sức giữ chân nó, Kainé đưa ra lựa chọn cuối cùng: cô bảo Emil tháo bịt mắt ra, hoá đá mình ngay trước cánh cửa để dùng thân xác phong ấn con quái vật bên trong. Trong nước mắt, Emil buộc phải làm theo.
+
+Chỉ trong một ngày, Nier mất gần như tất cả. Em gái bị bắt đi, đồng đội hoá tượng đá.
 
 ## Năm 3366: Sự thật
 
