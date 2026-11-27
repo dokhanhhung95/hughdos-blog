@@ -23,5 +23,10 @@ Hết mục trong hàng chờ thì lịch tự dừng.
     Chủ đề xuyên suốt: tốt – xấu, thiện – ác, sự sống – cái chết; sự "điên rồ" của Yoko Taro trong ý tưởng tạo nên game
     Ảnh bìa: để trống, anh Hưng tự thêm sau
 
+- [ ] Liverpool: chủ đề nóng nhất 2 tuần qua, qua góc nhìn các nhà báo thân Liverpool | football
+    Nguồn: các cây bút chuyên theo Liverpool (Liverpool Echo, The Athletic, This Is Anfield, Empire of the Kop…), chọn chủ đề được bàn nhiều nhất lúc viết
+    KHÔNG dịch nguyên văn bài báo (bản quyền). Đọc nhiều nguồn, tổng hợp và viết lại bằng lời của Hugh Do; mỗi nguồn trích tối đa 1 câu ngắn trong ngoặc kép, ghi tên tác giả + tờ báo, cuối bài có mục "Nguồn" kèm link
+    Văn phong: câu gọn, hạn chế ngôi xưng; phần tổng hợp tin khách quan, phần nhận định cuối bài mới đưa quan điểm riêng
+
 ## Đã viết
 
