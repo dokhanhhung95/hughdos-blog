@@ -6,17 +6,11 @@ tags: ["chia sẻ", "NieR", "YokoTaro", "Kechuyengame"]
 draft: false
 ---
 
-Một người anh đi khắp nơi tìm thuốc cho cô em gái đang ốm. Có ma vương, có sách phép biết nói, có quái vật. Nhìn qua, NieR giống một câu chuyện cổ tích.
-
-Nhưng câu chuyện đó chỉ là chương cuối. Mọi thứ bắt đầu từ hơn một nghìn năm trước, ở Tokyo.
-
-Phần 1 kể lại cốt truyện theo đúng thứ tự thời gian. Phần 2 bàn về ý nghĩa.
-
-> Bài viết tiết lộ toàn bộ cốt truyện, kể cả các cái kết.
+Mọi chuyện bắt đầu vào năm 2003, ở Shinjuku, Tokyo.
 
 ## 2003: Người khổng lồ và con rồng trên bầu trời Shinjuku
 
-**Ngày 12/6/2003, khoảng 3 giờ chiều.** Trên bầu trời Shinjuku, Tokyo, một sinh vật khổng lồ màu trắng như tượng đá bỗng xuất hiện. Ngay sau đó là một con rồng đỏ, trên lưng có người cưỡi. Cả hai đến từ một thế giới khác, và chúng lao vào giao chiến ngay giữa lòng thành phố.
+**Ngày 12/6/2003, khoảng 3 giờ chiều.** Trên bầu trời Shinjuku, một sinh vật khổng lồ màu trắng như tượng đá bỗng xuất hiện. Ngay sau đó là một con rồng đỏ, trên lưng có người cưỡi. Cả hai đến từ một thế giới khác, và chúng lao vào giao chiến ngay giữa lòng thành phố.
 
 Người khổng lồ gục ngã, cơ thể nó vỡ vụn thành vô số tinh thể trắng. Con rồng chưa kịp tận hưởng chiến thắng thì bị không quân Nhật Bản bắn hạ. Xác rồng được bí mật đưa về một cơ sở nghiên cứu.
 
