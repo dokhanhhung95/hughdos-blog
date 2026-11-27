@@ -15,5 +15,11 @@ Hết mục trong hàng chờ thì lịch tự dừng.
 
 <!-- Thêm chủ đề bên dưới dòng này -->
 
+- [ ] Series: Phân tích NieR Gestalt/NieR Replicant | game | 2 phần (đã viết 1/2)
+    Phần 1: cốt truyện → 2026-11-27-nier-phan-1-nghin-nam-cho-mot-loi-noi-doi.md
+    Phần 2: ý nghĩa cuộc sống rút ra từ game
+    Chủ đề xuyên suốt: tốt – xấu, thiện – ác, sự sống – cái chết; sự "điên rồ" của Yoko Taro trong ý tưởng tạo nên game
+    Ảnh bìa: để trống, anh Hưng tự thêm sau
+
 ## Đã viết
 
