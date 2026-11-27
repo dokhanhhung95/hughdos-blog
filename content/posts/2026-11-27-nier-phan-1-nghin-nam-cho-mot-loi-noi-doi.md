@@ -180,4 +180,4 @@ Thế giới vẫn đang chết dần. Gestalt vẫn sụp đổ. Replicant rồ
 
 Chính phủ thả bom để cứu dân. Các nhà khoa học dùng trẻ em để cứu loài người. Devola và Popola nói dối để hoàn thành nhiệm vụ. Shadowlord bắt cóc vì thương Yonah. Nier giết hàng nghìn Shade cũng vì thương Yonah.
 
-Vậy, đúng hay sai có còn quan trọng hay không?
+Vậy, đúng hay sai có còn quan trọng không?
