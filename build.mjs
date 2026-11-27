@@ -50,7 +50,8 @@ function loadPosts() {
     const { data, body } = parseFrontmatter(fs.readFileSync(path.join(dir, file), 'utf8'));
     if (data.draft && !SHOW_DRAFTS) continue;
     if (!data.title) { console.warn('  bỏ qua (thiếu title):', file); continue; }
-    const date = String(data.date || file.slice(0, 10)).slice(0, 10);
+    const stamp = String(data.date || file.slice(0, 10)).trim(); // 2026-11-27 hoặc 2026-11-27T08:46
+    const date = stamp.slice(0, 10);
     const slug = data.slug || file.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
     const url = data.wp_url || `/${date.slice(0, 4)}/${date.slice(5, 7)}/${date.slice(8, 10)}/${slug}/`;
     const category = catBySlug[data.category] ? data.category : 'more';
@@ -84,10 +85,10 @@ function loadPosts() {
     const firstP = (html.match(/<p>([\s\S]*?)<\/p>/) || [, ''])[1];
     const excerpt = data.excerpt || clip(stripTags(firstP) || text, 180);
     const cover = data.cover || (html.match(/<img[^>]+src="([^"]+)"/) || [])[1] || '';
-    posts.push({ file, title: data.title, date, category, tags: Array.isArray(data.tags) ? data.tags : [], url, cover,
+    posts.push({ file, title: data.title, date, stamp: stamp.length > 10 ? stamp.replace(' ', 'T') : stamp + 'T00:00', category, tags: Array.isArray(data.tags) ? data.tags : [], url, cover,
       excerpt, html, toc, readMin: Math.max(1, Math.round(words / 220)), draft: !!data.draft });
   }
-  return posts.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+  return posts.sort((a, b) => b.stamp.localeCompare(a.stamp) || a.title.localeCompare(b.title));
 }
 
 // ---------- mảnh giao diện ----------

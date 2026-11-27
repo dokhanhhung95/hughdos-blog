@@ -1,6 +1,6 @@
 ---
 title: "NieR Gestalt/Replicant (Phần 1): Sự kết thúc của loài người"
-date: 2026-11-27
+date: 2026-11-27T08:46
 category: game
 tags: ["chia sẻ", "NieR", "YokoTaro", "Kechuyengame"]
 draft: false

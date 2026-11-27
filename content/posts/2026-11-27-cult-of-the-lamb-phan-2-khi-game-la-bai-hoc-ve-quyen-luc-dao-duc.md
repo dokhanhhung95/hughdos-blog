@@ -1,6 +1,6 @@
 ---
 title: "Cult of the Lamb (Phần 2): Khi Game Là Bài Học Về Quyền Lực & Đạo Đức"
-date: 2026-11-27
+date: 2026-11-27T08:18
 category: game
 tags: ["chia sẻ", "cultofthelamb", "Kechuyengame"]
 cover: /images/2025/07/image.webp
