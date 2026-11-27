@@ -21,6 +21,10 @@
 - Tối đa 3 phần. Tiêu đề: `Tên series (Phần N): Tiêu đề phụ`.
 - Phần 2, 3 mở bằng một câu nối lại phần trước; mỗi phần phải đọc độc lập được.
 
+## Bài kể cốt truyện game
+- Kể theo dòng thời gian bên trong thế giới game: heading theo mốc năm/giai đoạn, mỗi mốc mở bằng ngày/năm in đậm (vd. **Năm 2014: Project Gestalt.**).
+- Chỉ nói chuyện trong game. Thông tin ngoài game (studio, phiên bản, đạo diễn, cảm hứng sáng tác) để dành cho bài phân tích/ý nghĩa.
+
 ## Tính chính xác
 - Tin tức, số liệu, chi tiết game/bóng đá/sản phẩm: tra cứu trước khi viết, không bịa. Không chắc thì bỏ.
 - Không chép nguyên văn từ nguồn khác; trích dẫn ngắn, ghi rõ nguồn.
