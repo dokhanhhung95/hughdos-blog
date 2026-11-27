@@ -167,6 +167,28 @@
     fetch('/search-index.json').then(function (r) { return r.json(); }).then(function (d) { index = d; run(); });
   }
 
+  // ---------- Bài viết: thanh tiến trình đọc ----------
+  var bar = document.querySelector('.read-progress'), prose = document.querySelector('.prose');
+  if (bar && prose) {
+    var fill = bar.firstElementChild, ticking = false;
+    // Chỉ hiện khi đã cuộn qua ảnh bìa (bài không có ảnh bìa thì tính theo phần tiêu đề)
+    var gate = document.querySelector('.post-cover') || document.querySelector('.post-head');
+    var update = function () {
+      ticking = false;
+      var r = prose.getBoundingClientRect(), vh = innerHeight;
+      // 0% khi đầu bài vào màn hình, 100% khi cuối bài chạm đáy màn hình
+      var start = r.top + scrollY - vh * 0.3, end = r.bottom + scrollY - vh;
+      var p = Math.min(1, Math.max(0, (scrollY - start) / Math.max(1, end - start)));
+      fill.style.transform = 'scaleX(' + p.toFixed(4) + ')';
+      bar.classList.toggle('on', gate.getBoundingClientRect().bottom <= 0);
+    };
+    var onScroll = function () { if (!ticking) { ticking = true; requestAnimationFrame(update); } };
+    addEventListener('scroll', onScroll, { passive: true });
+    addEventListener('resize', onScroll);
+    addEventListener('load', update);
+    update();
+  }
+
   // ---------- Bài viết: sao chép liên kết, mục lục đang đọc ----------
   document.querySelectorAll('[data-copy-link]').forEach(function (b) {
     b.addEventListener('click', function () {

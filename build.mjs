@@ -226,7 +226,8 @@ function postPage(p, posts) {
   const next = [...others.filter(x => x.category === p.category), ...others.filter(x => x.category !== p.category)].slice(0, 3);
   const c = catBySlug[p.category];
   const toc = p.toc.length >= 2 ? `<details class="toc" data-toc><summary><span>Mục lục <span class="n">· ${p.toc.length} mục</span></span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><ol>${p.toc.map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></details>` : '<aside class="toc" aria-hidden="true"></aside>';
-  const body = `${header(p.category)}
+  const body = `<div class="read-progress" aria-hidden="true"><span></span></div>
+${header(p.category)}
 <main>
 <article>
   <header class="post-head wrap">
