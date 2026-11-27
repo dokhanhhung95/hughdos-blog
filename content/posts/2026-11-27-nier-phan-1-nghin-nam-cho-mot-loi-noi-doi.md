@@ -116,21 +116,31 @@ Nier mất cả hai người quan trọng nhất trong cùng một ngày.
 
 ## Năm 3366: Sự thật ở cuối con đường
 
-**Năm năm sau**, Nier không còn là người của ngày xưa. Ánh mắt anh lạnh hơn và đường kiếm nặng hơn. Anh tìm được cách giải phong ấn, Emil trả tự do cho Kainé, và cả nhóm lên đường tới lâu đài Shadowlord.
+Năm năm trôi qua. Yonah vẫn nằm trong tay Shadowlord. Nier giờ đã là một chiến binh thực thụ, ít nói hơn, lạnh lùng hơn.
 
-Nửa sau của hành trình là một chuỗi mất mát. Emil quay về phòng thí nghiệm cũ, đối mặt với Thí nghiệm số 6, chính là người chị mình đã phong ấn năm xưa, và biết được mình thật ra là ai. Cơ thể cậu biến dạng dần thành thứ gì đó không còn là người.
+Việc đầu tiên là cứu Kainé. Emil tìm được cách giải lời nguyền hoá đá. Kainé tỉnh lại sau năm năm và quay về đội.
 
-Trước cổng lâu đài, Devola và Popola lộ mặt thật. Họ là giám sát viên của Project Gestalt. Mọi việc họ giúp Nier từ đầu đến giờ đều nhằm một mục đích: đưa Grimoire Weiss đến đúng nơi để hoàn thành dự án. Giờ Nier đã vượt khỏi tầm kiểm soát, nên họ phải ngăn anh lại.
+Muốn vào lâu đài Shadowlord, cả nhóm phải phá được kết giới bao quanh nó. Chìa khoá nằm rải rác khắp nơi. Hành trình đi tìm bắt đầu.
 
-Emil hy sinh để mở đường cho cả nhóm. Rồi Nier đối mặt với Shadowlord, và mọi mảnh ghép cuối cùng cũng khớp vào nhau:
+Một trong những chìa khoá nằm dưới biệt thự của Emil. Bên dưới là một phòng thí nghiệm cũ từ thời con người. Ở đó, Emil gặp lại Thí nghiệm số 6, người chị bị chính cậu phong ấn hơn một nghìn năm trước. Emil buộc phải đánh với chị mình. Sau trận đó, Emil nhớ lại mình là ai, và cơ thể cậu biến dạng thành một bộ xương mang hình người.
 
-- **Shade chính là con người nguyên bản.** Những sinh vật Nier chém hàng nghìn con suốt hành trình là linh hồn của loài người thật, những người đã chọn ngủ một giấc dài để chờ ngày sống lại.
-- **Shadowlord chính là Nier gốc.** Hắn là Gestalt Nguyên Bản, người đã bảo vệ Yonah ở Shinjuku năm xưa.
-- **Hắn bắt Yonah vì hắn yêu Yonah.** Biết Yonah gốc đang tái phát không thể cứu vãn, Shadowlord muốn hợp nhất linh hồn cô vào cơ thể Replicant ngay lập tức, trước khi quá muộn.
+Gom đủ chìa khoá, cả nhóm đến trước lâu đài. Devola và Popola đứng chờ sẵn ở đó.
 
-Trận chiến cuối cùng là cuộc đối đầu giữa **hai phiên bản của cùng một người**, cùng cố cứu **hai phiên bản của cùng một cô bé**. Không ai là phản diện.
+Hai chị em không phải người. Họ là android, giám sát viên của Project Gestalt. Suốt bao năm giúp Nier, mục đích thật của họ là đưa Grimoire Weiss đến tay Shadowlord để hoàn thành dự án. Giờ Nier đến để giết Shadowlord, nghĩa là phá hỏng tất cả. Hai chị em quay sang chặn đường.
 
-Grimoire Weiss hy sinh để làm suy yếu Shadowlord, và Nier tung đòn kết liễu. Bên trong cơ thể Replicant, Yonah gốc nghe thấy tiếng khóc của cô bé kia suốt năm năm qua, và hiểu rằng cô bé ấy cũng yêu "anh trai" mình nhiều như mình yêu anh trai mình. Yonah gốc chọn rời đi, trả lại cơ thể.
+Devola gục ngã. Popola phát điên vì mất em. Để cả nhóm vượt qua, Emil dùng toàn bộ sức mạnh còn lại phá kết giới. Cậu hy sinh.
+
+Trong lâu đài, Nier đứng trước Shadowlord và Yonah. Mọi bí mật được phơi bày.
+
+- **Shade là con người thật.** Những sinh vật Nier giết suốt năm năm qua là linh hồn của loài người nguyên bản. Họ đang chờ ngày được trở về thân xác.
+- **Shadowlord là Nier gốc.** Hắn là Gestalt Nguyên Bản, người đàn ông đã bảo vệ Yonah trong cửa hàng tiện lợi ở Shinjuku năm 2049.
+- **Hắn bắt Yonah để cứu Yonah.** Linh hồn Yonah gốc sắp sụp đổ. Cách duy nhất để giữ cô lại là đưa linh hồn ấy vào thân xác Replicant Yonah, tức cô bé Nier đang tìm.
+
+Hai người cùng tên Nier, cùng yêu một cô bé tên Yonah. Một người muốn cô bé quay về như cũ. Người kia muốn linh hồn cũ của cô bé được sống lại. Không ai là phản diện.
+
+Grimoire Weiss hy sinh để phá lớp bảo vệ của Shadowlord. Nier tung đòn kết liễu.
+
+Bên trong thân xác Replicant, Yonah gốc đã nghe thấy tiếng cô bé kia khóc gọi anh trai suốt năm năm. Cô hiểu cô bé ấy cũng thương anh trai mình như mình thương anh trai mình. Yonah gốc chọn rời đi, trả thân xác lại cho cô bé.
 
 Yonah mở mắt trong vòng tay Nier. Trông giống một cái kết có hậu. (Ending A)
 
