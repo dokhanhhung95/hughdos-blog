@@ -36,3 +36,4 @@
 - Không dịch nguyên văn. Viết lại bằng lời mình; mỗi nguồn trích tối đa một câu ngắn trong ngoặc kép, ghi tên tờ báo (và phóng viên nếu có). Cuối bài có mục "Nguồn" kèm link.
 - Tin chưa được nguồn tier cao xác nhận thì không đưa, hoặc ghi rõ "chưa xác nhận".
 - Giờ thi đấu đổi sang giờ Việt Nam (GMT+7).
+- Không tạo ảnh bìa cho bài Liverpool hằng tuần (không chạy make-cover.py, không thêm `cover:`); anh Hưng tự chọn ảnh.
