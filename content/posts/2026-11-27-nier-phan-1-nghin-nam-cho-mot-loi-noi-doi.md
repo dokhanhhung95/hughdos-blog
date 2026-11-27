@@ -1,14 +1,22 @@
 ---
-title: "NieR Gestalt/Replicant (Phần 1): Sự kết thúc của loài người"
+title: 'NieR Gestalt/Replicant (Phần 1): Sự kết thúc của loài người'
 date: 2026-11-27T08:46
 category: game
-tags: ["chia sẻ", "NieR", "YokoTaro", "Kechuyengame"]
+tags:
+  - chia sẻ
+  - NieR
+  - YokoTaro
+  - Kechuyengame
+cover: /images/uploads/pasted-image-1795760011276.png
+excerpt: ''
 draft: false
 ---
 
 Sự kiện đầu tiên của NieR Gestalt/Replicant bắt đầu năm 2003.
 
 ## 2003: Người khổng lồ và con rồng trên bầu trời Shinjuku
+
+![](/images/uploads/20261127-131905.png)
 
 **Ngày 12/6/2003, khoảng 3 giờ chiều.** Trên bầu trời Shinjuku, một sinh vật khổng lồ màu trắng như tượng đá bỗng xuất hiện. Ngay sau đó là một con rồng đỏ, trên lưng có người cưỡi. Cả hai đến từ một thế giới khác, và chúng lao vào giao chiến ngay giữa lòng thành phố.
 
@@ -40,9 +48,13 @@ Mọi người tưởng cơn ác mộng đã kết thúc. Họ đã nhầm.
 
 Loài người bắt đầu chạy đua với thời gian, và mỗi dự án lại bất chấp đạo đức hơn dự án trước.
 
+![Project Gestalt Documents | NIER Wiki | Fandom](/images/uploads/20261127-132128.png)
+
 **Năm 2014: Project Gestalt.** Dựa trên Maso, các nhà khoa học tìm ra cách **tách linh hồn khỏi thể xác**. Phần linh hồn ấy được gọi là **Gestalt**. Ý tưởng là để con người tồn tại ở dạng linh hồn, tránh khỏi căn bệnh, rồi khi WCS biến mất sẽ quay về một cơ thể mới. Công chúng phản đối dữ dội, nhưng dự án vẫn âm thầm tiếp tục.
 
 **Năm 2016: Luciferase và tổ chức Hamelin.** Một loại thuốc tên **Luciferase** được tạo ra, có khả năng làm chậm WCS và tăng sức mạnh cho người dùng. Người ta phát hiện thuốc hiệu quả nhất trên **trẻ em**. Thế là tổ chức **Hamelin** ra đời, gom những đứa trẻ có sức đề kháng cao khắp thế giới, cho chúng dùng thuốc rồi huấn luyện thành binh lính để đánh Legion. Cái tên lấy từ truyện cổ tích người thổi sáo dẫn trẻ em đi mất.
+
+![Snow White Plans | Nier Replicant Wiki](/images/uploads/Meeting-agenda-snow-white-plans-world-nier-replicant-wiki-guide.png)
 
 **Năm 2018: Phòng Nghiên cứu Vũ khí Quốc gia.** Một nhóm khác chọn con đường còn tàn nhẫn hơn: cấy Maso trực tiếp vào cơ thể người để tạo ra vũ khí sống. Vật thí nghiệm cũng là trẻ em. Trong số đó có hai chị em, về sau được gọi là **Thí nghiệm số 6** và **Thí nghiệm số 7**.
 
@@ -52,9 +64,11 @@ Loài người bắt đầu chạy đua với thời gian, và mỗi dự án l�
 
 **Năm 2030.** Một đơn vị của Hamelin tiêu diệt Red Eye tại Jerusalem. Mất thủ lĩnh, Legion tan rã. Nhưng WCS vẫn tiếp tục lan rộng, và nhân loại chấp nhận sự thật: không còn đường nào khác ngoài Project Gestalt.
 
-## 2032 – 2053: Kế hoạch ngủ một giấc nghìn năm
+## 2032 – 2053: Kế hoạch giấc ngủ ngàn năm
 
 **Năm 2032.** Project Gestalt được công bố, lần này được số đông chấp nhận. Loài người lần lượt tách linh hồn khỏi thể xác. Vì tinh thể muối tồn tại rất lâu, phải mất nhiều thế kỷ thì bầu khí quyển mới sạch. Trong thời gian chờ, các Replicant được lập trình sẵn những kiến thức cơ bản để tự sinh tồn.
+
+![NieR Replicant ver.1.22 - Devola & Popola: Song of the Ancients - Duet in  the Tavern](/images/uploads/sddefault.png)
 
 Để vận hành dự án, người ta tạo ra những **android** đóng vai trò **giám sát viên**. Họ theo dõi Replicant, giữ chúng trong những khu vực nhất định, và đảm bảo mọi thứ đi đúng kế hoạch. Trong số đó có một cặp android song sinh mang tên **Devola và Popola**.
 
