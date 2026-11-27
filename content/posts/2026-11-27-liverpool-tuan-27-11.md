@@ -4,7 +4,6 @@ date: 2026-11-27
 category: football
 tags: ["Liverpool", "Premier League"]
 draft: false
-cover: /images/covers/liverpool-tuan-27-11.webp
 ---
 
 Bảy bàn thắng, không bàn thua, và một trận derby Merseyside đang chờ ở cuối tuần.
