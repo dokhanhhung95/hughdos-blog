@@ -29,3 +29,10 @@
 ## Tính chính xác
 - Tin tức, số liệu, chi tiết game/bóng đá/sản phẩm: tra cứu trước khi viết, không bịa. Không chắc thì bỏ.
 - Không chép nguyên văn từ nguồn khác; trích dẫn ngắn, ghi rõ nguồn.
+
+## Liverpool hằng tuần (lịch riêng, chuyên mục football)
+- Bài cập nhật tin, 700–1.200 từ, câu gọn, khách quan; chỉ đoạn "Nhận định" cuối bài mới có ý kiến riêng.
+- Nguồn tier cao: kênh chính thức liverpoolfc.com, The Athletic, BBC Sport, Liverpool Echo, Sky Sports, The Times, The Telegraph, The Guardian, PA/Reuters. Không dùng trang gom tin đồn, tài khoản mạng xã hội không rõ nguồn.
+- Không dịch nguyên văn. Viết lại bằng lời mình; mỗi nguồn trích tối đa một câu ngắn trong ngoặc kép, ghi tên tờ báo (và phóng viên nếu có). Cuối bài có mục "Nguồn" kèm link.
+- Tin chưa được nguồn tier cao xác nhận thì không đưa, hoặc ghi rõ "chưa xác nhận".
+- Giờ thi đấu đổi sang giờ Việt Nam (GMT+7).
