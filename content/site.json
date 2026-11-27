@@ -23,12 +23,12 @@
     {
       "slug": "more",
       "name": "More",
-      "description": "Những điều làm cuộc sống thú vị hơn."
+      "description": "Những điều thú vị trong cuộc sống."
     }
   ],
   "about": {
     "heading_line1": "Xin chào,",
     "heading_line2": "Tôi là Hugh.",
-    "intro": "UX/UI designer, thích Pokémon, Zelda và đội bóng Liverpool. Đây là nơi tôi ghi lại những thứ mình chơi, xem và làm."
+    "intro": "UX/UI designer, thích Pokémon, Zelda, Liverpool FC. Đây là nơi tôi ghi lại những thứ mình chơi, xem và làm."
   }
 }
