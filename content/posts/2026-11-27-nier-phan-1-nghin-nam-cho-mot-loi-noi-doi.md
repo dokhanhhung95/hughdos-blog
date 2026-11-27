@@ -1,15 +1,15 @@
 ---
 title: 'NieR Gestalt/Replicant (P.1): Sự kết thúc của loài người'
-date: 2026-11-27T08:46
+date: 2026-07-29T08:46
 category: game
 tags:
-  - chia sẻ
   - NieR
   - YokoTaro
   - Kechuyengame
 cover: /images/uploads/pasted-image-1795760011276.png
 excerpt: ''
 draft: false
+archived: false
 ---
 
 Sự kiện đầu tiên của NieR Gestalt/Replicant bắt đầu năm 2003.
