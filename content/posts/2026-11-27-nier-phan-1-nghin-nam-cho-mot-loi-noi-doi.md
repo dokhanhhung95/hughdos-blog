@@ -6,13 +6,13 @@ tags: ["chia sẻ", "NieR", "YokoTaro", "Kechuyengame"]
 draft: false
 ---
 
-Lần đầu chơi NieR, bạn sẽ thấy một câu chuyện cổ tích quen thuộc: một người anh (hoặc một người cha) đi khắp thế giới tìm thuốc chữa cho cô em gái (hoặc cô con gái) đang ốm. Có ma vương, có sách phép biết nói, có quái vật cần tiêu diệt.
+Một người anh đi khắp nơi tìm thuốc cho cô em gái đang ốm. Có ma vương, có sách phép biết nói, có quái vật. Nhìn qua, NieR giống một câu chuyện cổ tích.
 
-Nhưng tất cả những gì bạn thấy trên màn hình chỉ là chương cuối của một câu chuyện dài hơn một nghìn năm. Và để hiểu vì sao cái kết của NieR lại đau đến vậy, ta phải quay về điểm bắt đầu.
+Nhưng câu chuyện đó chỉ là chương cuối. Mọi thứ bắt đầu từ hơn một nghìn năm trước, ở Tokyo.
 
-Phần 1 này tôi sẽ kể lại toàn bộ cốt truyện theo đúng thứ tự thời gian, từ ngày đầu tiên thảm hoạ ập xuống cho đến khi trận chiến cuối cùng khép lại. Phần 2 sẽ bàn về ý nghĩa đằng sau câu chuyện.
+Phần 1 kể lại cốt truyện theo đúng thứ tự thời gian. Phần 2 bàn về ý nghĩa.
 
-> Cảnh báo: bài viết tiết lộ toàn bộ cốt truyện, kể cả các cái kết. Nếu bạn định chơi, hãy dừng ở đây.
+> Bài viết tiết lộ toàn bộ cốt truyện, kể cả các cái kết.
 
 ## 2003: Người khổng lồ và con rồng trên bầu trời Shinjuku
 
@@ -48,13 +48,13 @@ Loài người bắt đầu chạy đua với thời gian, và mỗi dự án l�
 
 **Năm 2014: Project Gestalt.** Dựa trên Maso, các nhà khoa học tìm ra cách **tách linh hồn khỏi thể xác**. Phần linh hồn ấy được gọi là **Gestalt**. Ý tưởng là để con người tồn tại ở dạng linh hồn, tránh khỏi căn bệnh, rồi khi WCS biến mất sẽ quay về một cơ thể mới. Công chúng phản đối dữ dội, nhưng dự án vẫn âm thầm tiếp tục.
 
-**Năm 2016: Luciferase và tổ chức Hamelin.** Một loại thuốc tên **Luciferase** được tạo ra, có khả năng làm chậm WCS và tăng sức mạnh cho người dùng. Người ta phát hiện thuốc hiệu quả nhất trên **trẻ em**. Thế là tổ chức **Hamelin** ra đời, gom những đứa trẻ có sức đề kháng cao khắp thế giới, cho chúng dùng thuốc rồi huấn luyện thành binh lính để đánh Legion. Cái tên Hamelin lấy từ truyện cổ tích người thổi sáo dẫn trẻ em đi mất. Một sự châm biếm cay đắng.
+**Năm 2016: Luciferase và tổ chức Hamelin.** Một loại thuốc tên **Luciferase** được tạo ra, có khả năng làm chậm WCS và tăng sức mạnh cho người dùng. Người ta phát hiện thuốc hiệu quả nhất trên **trẻ em**. Thế là tổ chức **Hamelin** ra đời, gom những đứa trẻ có sức đề kháng cao khắp thế giới, cho chúng dùng thuốc rồi huấn luyện thành binh lính để đánh Legion. Cái tên lấy từ truyện cổ tích người thổi sáo dẫn trẻ em đi mất.
 
 **Năm 2018: Phòng Nghiên cứu Vũ khí Quốc gia.** Một nhóm khác chọn con đường còn tàn nhẫn hơn: cấy Maso trực tiếp vào cơ thể người để tạo ra vũ khí sống. Vật thí nghiệm cũng là trẻ em. Trong số đó có hai chị em, về sau được gọi là **Thí nghiệm số 6** và **Thí nghiệm số 7**.
 
 **Năm 2025: Replicant ra đời.** Mảnh ghép thứ hai của Project Gestalt hoàn thành. Từ dữ liệu cơ thể của mỗi người, các nhà khoa học tạo ra một bản sao miễn nhiễm WCS, gọi là **Replicant**. Đây là chiếc "bình chứa" để linh hồn quay về sau này.
 
-**Năm 2026.** Thí nghiệm số 6 mất kiểm soát. Thí nghiệm số 7 được dùng để phong ấn chị mình. Hãy nhớ chi tiết này, vì nó sẽ quay lại khi bạn gặp Emil.
+**Năm 2026.** Thí nghiệm số 6 mất kiểm soát. Thí nghiệm số 7 được dùng để phong ấn chị mình. Hai chị em này sẽ xuất hiện lại, hơn một nghìn năm sau.
 
 **Năm 2030.** Một đơn vị của Hamelin tiêu diệt Red Eye tại Jerusalem. Mất thủ lĩnh, Legion tan rã. Nhưng WCS vẫn tiếp tục lan rộng, và nhân loại chấp nhận sự thật: không còn đường nào khác ngoài Project Gestalt.
 
@@ -73,7 +73,7 @@ Rồi các nhà khoa học phát hiện ra một lỗ hổng chết người:
 
 Cách duy nhất để giữ các Gestalt ổn định là dùng Maso từ một linh hồn đặc biệt, một Gestalt có thể tồn tại mà không bao giờ sụp đổ. Người ta gọi đó là **Gestalt Nguyên Bản**.
 
-**Năm 2049 (bản Replicant là 2053).** Đây là đoạn mở đầu bạn chơi trong game. Shinjuku đổ nát, muối rơi như tuyết. Trong một cửa hàng tiện lợi bỏ hoang, một người đàn ông (hoặc một cậu thiếu niên) chiến đấu với lũ quái vật để bảo vệ Yonah đang ho sặc sụa. Anh tìm thấy một cuốn sách kỳ lạ. Đó là Grimoire Noir.
+**Năm 2049 (bản Replicant là 2053).** Đoạn mở đầu của game. Shinjuku đổ nát, muối rơi như tuyết. Trong một cửa hàng tiện lợi bỏ hoang, một người đàn ông (hoặc một cậu thiếu niên) chiến đấu với lũ quái vật để bảo vệ Yonah đang ho sặc sụa. Anh tìm thấy một cuốn sách kỳ lạ. Đó là Grimoire Noir.
 
 Nơi trú ẩn ấy thực chất đã được sắp đặt để thu hút người sống sót, nhằm tìm ra Gestalt Nguyên Bản. Và người đàn ông ấy chính là **Nier**, Gestalt Nguyên Bản mà loài người đang tìm kiếm.
 
@@ -134,7 +134,7 @@ Shadowlord là Gestalt Nguyên Bản, nguồn Maso giữ cho mọi Gestalt khác
 
 Nghĩa là trong khoảnh khắc cứu được em gái, Nier đã **vô tình kết liễu cả loài người**, cả bản gốc lẫn bản sao.
 
-Project Gestalt thất bại. Kế hoạch nghìn năm sụp đổ trong một trận đấu. Đây là lời nói dối nghìn năm mà tên bài nhắc tới: một thế giới tin rằng mình đang sống, thật ra chỉ đang chờ để bị thay thế, và kết thúc vì một tình yêu thuần khiết nhất.
+Project Gestalt thất bại. Kế hoạch nghìn năm sụp đổ trong một trận đấu.
 
 ## Chơi lại để thấy những gì đã bỏ lỡ
 
@@ -142,13 +142,13 @@ Cái kết đầu tiên, **Ending A**, chỉ là lớp vỏ ngoài. Khi chơi l�
 
 - **Ending B:** lần này Nier **hiểu được tiếng của Shade**. Con Shade khổng lồ anh giết đang cố bảo vệ con mình. Những Shade "tấn công" làng thật ra đang chạy trốn. Cũng là những sự kiện cũ, nhưng cảm giác chiến thắng biến mất, chỉ còn lại tội lỗi. Các đoạn hồi tưởng còn kể quá khứ của Kainé và Tyrann, của Devola và Popola.
 - **Ending C:** sau trận chiến, Kainé bị Tyrann chiếm hoàn toàn và hoá thành Shade. Nier chọn kết liễu cô để giải thoát.
-- **Ending D:** Nier chọn cách khác. Anh hy sinh **chính sự tồn tại của mình** để Kainé được sống. Mọi dấu vết về anh bị xoá sạch, kể cả trong ký ức của Yonah và Kainé. Để hoàn tất lựa chọn này, trò chơi xoá luôn file save của bạn. Nier không còn tồn tại, cả trong thế giới game lẫn trên máy của bạn.
+- **Ending D:** Nier chọn cách khác. Anh hy sinh **chính sự tồn tại của mình** để Kainé được sống. Mọi dấu vết về anh bị xoá sạch, kể cả trong ký ức của Yonah và Kainé. File save cũng bị xoá theo. Nier biến mất hoàn toàn.
 - **Ending E** (có ở bản Replicant làm lại): Kainé, giờ được điều khiển trực tiếp, vẫn mơ về một người mà cô không thể nhớ ra. Cùng Emil, cô bước vào một hành trình mới để tìm lại chàng trai đã biến mất khỏi thế giới.
 
 ## Tạm dừng ở đây
 
-Đó là toàn bộ dòng thời gian của NieR, từ ngày con rồng rơi xuống Shinjuku đến khi một chàng trai tự xoá mình để cứu người khác.
+Từ ngày con rồng rơi xuống Shinjuku đến khi Nier tự xoá mình, đó là toàn bộ dòng thời gian của NieR.
 
-Kể lại theo thứ tự này, ta thấy rõ một điều: trong suốt hơn một nghìn năm, mọi bi kịch đều bắt đầu từ những người tin rằng mình đang làm điều đúng. Chính phủ thả bom để cứu dân. Các nhà khoa học hy sinh trẻ em để cứu loài người. Devola và Popola nói dối để giữ lời hứa với người tạo ra họ. Shadowlord bắt cóc vì thương con. Và Nier giết hàng nghìn sinh linh vì thương em.
+Chính phủ thả bom để cứu dân. Các nhà khoa học dùng trẻ em để cứu loài người. Devola và Popola nói dối để hoàn thành nhiệm vụ. Shadowlord bắt cóc vì thương Yonah. Nier giết hàng nghìn Shade cũng vì thương Yonah.
 
-Vậy ai là người tốt, ai là kẻ ác? Phần 2 sẽ đi tìm câu trả lời, cùng với bộ óc đầy "điên rồ" đã nghĩ ra thế giới này.
+Ai đúng, ai sai? Phần 2 sẽ nói tiếp.
