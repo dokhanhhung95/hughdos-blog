@@ -82,6 +82,19 @@
     addEventListener('resize', function () { moveTo(0); });
   }
 
+  // ---------- Trang chủ (mobile): chip chọn chuyên mục ----------
+  var tabs = document.querySelector('.cat-tabs');
+  if (tabs) {
+    var wrapTabs = tabs.parentNode, tabBtns = tabs.querySelectorAll('[data-tab]');
+    var showTab = function (slug) {
+      tabBtns.forEach(function (b) { b.setAttribute('aria-selected', String(b.dataset.tab === slug)); });
+      wrapTabs.querySelectorAll('[data-group]').forEach(function (g) { g.classList.toggle('on', g.dataset.group === slug); });
+    };
+    tabBtns.forEach(function (b) { b.addEventListener('click', function () { showTab(b.dataset.tab); }); });
+    tabs.hidden = false; wrapTabs.classList.add('tabs-on');
+    if (tabBtns[0]) showTab(tabBtns[0].dataset.tab);
+  }
+
   // ---------- Lưu trữ: lọc chuyên mục ----------
   var chips = document.querySelectorAll('.chip[data-filter]');
   chips.forEach(function (c) {

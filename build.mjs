@@ -204,14 +204,15 @@ ${latest ? `<section class="latest wrap" aria-labelledby="latest-h">
 </section>` : ''}
 ${rest.length ? `<section class="all-posts wrap" aria-labelledby="by-cat-h">
   <div class="section-head"><h2 id="by-cat-h">Theo chuyên mục</h2><a class="text-link" href="/tat-ca/">Tất cả bài viết</a></div>
+  <div class="cat-tabs" role="tablist" aria-label="Chuyên mục" hidden>${cats.filter(c => posts.some(p => p.category === c.slug)).map((c, i) => `<button type="button" role="tab" class="chip" data-tab="${c.slug}" aria-selected="${i === 0}">${esc(c.name)} <span class="n">${posts.filter(p => p.category === c.slug).length}</span></button>`).join('')}</div>
   <div class="cat-groups">${cats.map(c => {
     const all = posts.filter(p => p.category === c.slug);
     const shown = rest.filter(p => p.category === c.slug).slice(0, 3);
     if (!all.length) return '';
-    return `<div class="cat-group">
+    return `<div class="cat-group" data-group="${c.slug}" role="tabpanel">
       <a class="cg-head" href="${catUrl(c.slug)}"><span class="name">${esc(c.name)}</span><span class="n">${all.length} bài</span></a>
-      ${shown.map(p => `<a class="cg-post" href="${p.url}"><span class="title">${esc(p.title)}</span><span class="date">${fmtDate(p.date)}</span></a>`).join('')}
-      <a class="cg-more" href="${catUrl(c.slug)}">Xem tất cả ${esc(c.name)} →</a>
+      ${shown.map((p, i) => `<a class="cg-post${i === shown.length - 1 ? ' last' : ''}" href="${p.url}"><span class="title">${esc(p.title)}</span><span class="date">${fmtDate(p.date)}</span></a>`).join('')}
+      ${all.length > shown.length + (latest.category === c.slug ? 1 : 0) ? `<a class="cg-more" href="${catUrl(c.slug)}">Xem tất cả ${esc(c.name)} →</a>` : ''}
     </div>`;
   }).join('')}</div>
 </section>` : ''}
