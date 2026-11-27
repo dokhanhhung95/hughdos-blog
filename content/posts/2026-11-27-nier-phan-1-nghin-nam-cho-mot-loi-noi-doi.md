@@ -1,12 +1,12 @@
 ---
-title: "NieR Gestalt/Replicant (Phần 1): Nghìn Năm Cho Một Lời Nói Dối"
+title: "NieR Gestalt/Replicant (Phần 1): Sự kết thúc của loài người"
 date: 2026-11-27
 category: game
 tags: ["chia sẻ", "NieR", "YokoTaro", "Kechuyengame"]
 draft: false
 ---
 
-Mọi chuyện bắt đầu vào năm 2003, ở Shinjuku, Tokyo.
+Sự kiện đầu tiên của NieR Gestalt/Replicant bắt đầu năm 2003.
 
 ## 2003: Người khổng lồ và con rồng trên bầu trời Shinjuku
 
@@ -20,13 +20,13 @@ Sự kiện này về sau được gọi là **Biến cố 6-12**. Không ai bi�
 
 ## 2004 – 2010: Bức tường, quân đoàn và quả bom
 
-**Năm 2004.** Số người chết tăng vọt, tập trung ở Shinjuku. Căn bệnh được đặt tên là **White Chlorination Syndrome** (Hội chứng Muối Trắng, gọi tắt là WCS). Đáng sợ hơn, một số người nhiễm bệnh không chết mà trở nên hung bạo, mất hoàn toàn lý trí. Chính phủ quyết định phong toả toàn bộ Shinjuku bằng một bức tường khổng lồ mang tên **Bức tường Jericho**.
+**Năm 2004.** Số người chết tăng vọt, tập trung ở Shinjuku. Căn bệnh được đặt tên là **White Chlorination Syndrome** (WCS). Đáng sợ hơn, một số người nhiễm bệnh không chết mà trở nên hung bạo, mất hoàn toàn lý trí. Chính phủ quyết định phong toả toàn bộ Shinjuku bằng một bức tường khổng lồ mang tên **Bức tường Jericho**.
 
 Thứ "tuyết" mà nhân vật chính thấy ở đoạn mở đầu game, chính là những tinh thể muối này.
 
 **Năm 2006 – 2007.** Cơ sở giữ xác rồng bị một nhóm người bí ẩn tấn công. Ảnh vệ tinh bắt đầu ghi nhận một chấm đen kỳ lạ phía sau bức tường.
 
-**Tháng 2/2008.** Bức tường Jericho sụp đổ. Từ bên trong tràn ra một đội quân sinh vật trắng nhợt, tàn sát bất cứ ai chúng gặp. Người ta gọi chúng là **Legion** (Quân đoàn). Kẻ chỉ huy là một sinh vật có đôi mắt đỏ rực, được đặt tên đơn giản là **Red Eye** (Mắt Đỏ). Quân đội Nhật Bản phản công nhưng chịu thương vong nặng nề, vì Legion dưới tay Red Eye đánh có tổ chức. Sau đó WCS bùng phát trở lại và lan ra khỏi Tokyo.
+**Tháng 2/2008.** Bức tường Jericho sụp đổ. Từ bên trong tràn ra một đội quân sinh vật trắng nhợt, tàn sát bất cứ ai chúng gặp. Người ta gọi chúng là **Legion**. Kẻ chỉ huy là một sinh vật có đôi mắt đỏ rực, được đặt tên đơn giản là **Red Eye**. Quân đội Nhật Bản phản công nhưng chịu thương vong nặng nề, vì Legion dưới tay Red Eye đánh có tổ chức. Sau đó WCS bùng phát trở lại và lan ra khỏi Tokyo.
 
 Cũng trong thời gian này, các nhà khoa học phát hiện những tinh thể từ xác người khổng lồ, gọi là **Maso**, chứa một loại năng lượng hút ra từ thế giới khác. Thứ năng lượng ấy cho phép tạo ra điều gì đó từ hư vô, và loài người gọi nó bằng một cái tên quen thuộc: **phép thuật**.
 
@@ -58,7 +58,7 @@ Loài người bắt đầu chạy đua với thời gian, và mỗi dự án l�
 
 Để vận hành dự án, người ta tạo ra những **android** đóng vai trò **giám sát viên**. Họ theo dõi Replicant, giữ chúng trong những khu vực nhất định, và đảm bảo mọi thứ đi đúng kế hoạch. Trong số đó có một cặp android song sinh mang tên **Devola và Popola**.
 
-**Năm 2033: Project Grimoire.** Để đưa hàng tỷ linh hồn trở về cùng lúc, người ta tạo ra những cuốn sách phép có khả năng hợp nhất linh hồn với thân xác. Hai cuốn quan trọng nhất là **Grimoire Noir** (Hắc Thư) và **Grimoire Weiss** (Bạch Thư). Khi cả hai cùng được kích hoạt, cuộc hợp nhất quy mô lớn sẽ bắt đầu.
+**Năm 2033: Project Grimoire.** Để đưa hàng tỷ linh hồn trở về cùng lúc, người ta tạo ra những cuốn sách phép có khả năng hợp nhất linh hồn với thân xác. Hai cuốn quan trọng nhất là **Grimoire Noir** và **Grimoire Weiss**. Khi cả hai cùng được kích hoạt, cuộc hợp nhất quy mô lớn sẽ bắt đầu.
 
 Rồi các nhà khoa học phát hiện ra một lỗ hổng chết người:
 
@@ -81,15 +81,15 @@ Họ không biết mình là bản sao. Họ tin mình chính là loài người
 
 Còn những linh hồn đang chờ đợi, các Gestalt, thì lang thang trong hình dạng những bóng đen mờ đục. Họ nói thứ ngôn ngữ mà Replicant không hiểu, và ngày càng nhiều người trong số họ tái phát, trở nên hung dữ. Replicant gọi họ là **Shade**, và coi họ là quái vật.
 
-Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shadowlord** (Ma Vương), luôn mang theo Grimoire Noir bên mình.
+Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shadowlord**, luôn mang theo Grimoire Noir bên mình.
 
 ## Năm 3361: Người anh tìm thuốc cho em
 
-**1.312 năm sau đoạn mở đầu** (bản Replicant là 1.412 năm), ở một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc Yonah. Cô bé mắc **Black Scrawl** (Hắc Văn), căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
+**1.312 năm sau đoạn mở đầu** (bản Replicant là 1.412 năm), ở một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc Yonah. Cô bé mắc **Black Scrawl**, căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
 
 Black Scrawl thực chất là dấu hiệu cho thấy Gestalt của Yonah gốc đang tái phát. Nói cách khác, Yonah Replicant bệnh vì Yonah gốc đang chết.
 
-Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự chỉ dẫn của Devola và Popola. Hai chị em là những người tốt bụng nhất làng, hay ít nhất họ diễn vai đó rất giỏi. Rồi trong một ngôi đền bị phong ấn, Nier gặp **Grimoire Weiss**, cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các **Sealed Verses** (Phong Ấn Văn), Weiss có thể chữa được Black Scrawl.
+Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự chỉ dẫn của Devola và Popola. Hai chị em là những người tốt bụng nhất làng, hay ít nhất họ diễn vai đó rất giỏi. Rồi trong một ngôi đền bị phong ấn, Nier gặp **Grimoire Weiss**, cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các **Sealed Verses**, Weiss có thể chữa được Black Scrawl.
 
 Trên hành trình đi tìm, Nier gặp hai người đồng hành nữa.
 
@@ -118,7 +118,7 @@ Trận chiến cuối cùng là cuộc đối đầu giữa **hai phiên bản c
 
 Grimoire Weiss hy sinh để làm suy yếu Shadowlord, và Nier tung đòn kết liễu. Bên trong cơ thể Replicant, Yonah gốc nghe thấy tiếng khóc của cô bé kia suốt năm năm qua, và hiểu rằng cô bé ấy cũng yêu "anh trai" mình nhiều như mình yêu anh trai mình. Yonah gốc chọn rời đi, trả lại cơ thể.
 
-Yonah mở mắt trong vòng tay Nier. Trông giống một cái kết có hậu.
+Yonah mở mắt trong vòng tay Nier. Trông giống một cái kết có hậu. (Ending A)
 
 ## Cái giá của chiến thắng
 
@@ -130,19 +130,40 @@ Nghĩa là trong khoảnh khắc cứu được em gái, Nier đã **vô tình k
 
 Project Gestalt thất bại. Kế hoạch nghìn năm sụp đổ trong một trận đấu.
 
-## Chơi lại để thấy những gì đã bỏ lỡ
+## Những chiều không gian khác
 
-Cái kết đầu tiên, **Ending A**, chỉ là lớp vỏ ngoài. Khi chơi lại từ năm 3366, câu chuyện lật dần từng lớp:
+Ở một chiều không gian khác, Nier tỉnh dậy. Vẫn là năm 3366. Vẫn con đường dẫn tới lâu đài Shadowlord. Nhưng lần này, anh nghe được tiếng của Shade.
 
-- **Ending B:** lần này Nier **hiểu được tiếng của Shade**. Con Shade khổng lồ anh giết đang cố bảo vệ con mình. Những Shade "tấn công" làng thật ra đang chạy trốn. Cũng là những sự kiện cũ, nhưng cảm giác chiến thắng biến mất, chỉ còn lại tội lỗi. Các đoạn hồi tưởng còn kể quá khứ của Kainé và Tyrann, của Devola và Popola.
-- **Ending C:** sau trận chiến, Kainé bị Tyrann chiếm hoàn toàn và hoá thành Shade. Nier chọn kết liễu cô để giải thoát.
-- **Ending D:** Nier chọn cách khác. Anh hy sinh **chính sự tồn tại của mình** để Kainé được sống. Mọi dấu vết về anh bị xoá sạch, kể cả trong ký ức của Yonah và Kainé. File save cũng bị xoá theo. Nier biến mất hoàn toàn.
-- **Ending E** (có ở bản Replicant làm lại): Kainé, giờ được điều khiển trực tiếp, vẫn mơ về một người mà cô không thể nhớ ra. Cùng Emil, cô bước vào một hành trình mới để tìm lại chàng trai đã biến mất khỏi thế giới.
+Con Shade khổng lồ trước mặt không gầm gừ. Nó đang gọi con. Lũ Shade tràn vào làng không đến để tấn công. Chúng đang chạy trốn. Có những Shade đứng yên, van xin đừng giết. Nier vẫn vung kiếm. Yonah vẫn đang chờ anh.
 
-## Tạm dừng ở đây
+Ký ức của Kainé hiện về. Một đứa trẻ lưỡng tính bị cả làng xua đuổi, ném đá. Người duy nhất thương cô là bà. Ngày bà chết dưới tay con Shade khổng lồ, Kainé cũng nằm hấp hối bên cạnh. Một Shade tên Tyrann tìm đến, nhập vào cơ thể cô để cùng trả thù. Tyrann vốn chỉ khát máu. Sống trong Kainé đủ lâu, nó bắt đầu quan tâm đến cô.
 
-Từ ngày con rồng rơi xuống Shinjuku đến khi Nier tự xoá mình, đó là toàn bộ dòng thời gian của NieR.
+Ký ức của Devola và Popola cũng hiện về. Hai chị em android canh giữ ngôi làng hơn một nghìn năm. Họ hát cho dân làng nghe, nuôi lớn Nier và Yonah, và biết trước sẽ có ngày phải phản bội họ. Nhiệm vụ vẫn là nhiệm vụ.
+
+Kết cục không đổi. Shadowlord chết. Yonah trở về. Chỉ có Nier đã biết mình vừa giết những ai. **(Ending B)**
+
+Ở một chiều không gian khác nữa, trận chiến cuối cùng vừa kết thúc thì Tyrann trỗi dậy. Kainé biến dần thành Shade. Nier đứng trước hai lựa chọn.
+
+Nếu anh rút kiếm, Kainé ra đi trong vòng tay anh, thanh thản, vẫn là con người. **(Ending C)**
+
+Nếu anh chọn cứu cô, cái giá là chính sự tồn tại của anh. Kainé sống. Nier biến mất. Không ai còn nhớ anh, kể cả Yonah. Ngay cả dữ liệu trò chơi cũng bị xoá sạch, như thể Nier chưa từng có mặt. **(Ending D)**
+
+Vài năm trôi qua. Kainé cứ mơ về một chàng trai mà cô không thể nhớ tên. Emil cũng vậy. Cả hai đều có cảm giác đã quên mất một điều gì đó rất quan trọng.
+
+Theo những giấc mơ ấy, Kainé bước vào một khu rừng lạ, nơi có một cái cây khổng lồ. Càng vào sâu, cô càng gặp nhiều cỗ máy lạ lẫm chặn đường. Hai giọng nói bí ẩn vang lên, buộc tội cô. Chính nhóm của cô đã giết Gestalt Nguyên Bản. Vì thế các Gestalt phát điên, tràn ra tàn sát Replicant khắp nơi. Thế giới đang lụi tàn, và Kainé là một trong những kẻ gây ra.
+
+Kainé vẫn đi tiếp. Cô phải đánh với những bản sao của chính mình, được tạo ra từ Maso. Mỗi bản sao là một phiên bản Kainé của quá khứ, với những vết thương cô đã mang theo cả đời.
+
+Ở trung tâm cái cây là lõi của khu rừng, nơi lưu giữ mọi dữ liệu của thế giới. Trong đó có cả những ký ức Kainé đã đánh mất. Cô lao vào đập phá nó. Từng mảnh ký ức vỡ ra. Một giọng nói quen thuộc vang lên. Là giọng của Nier.
+
+Kainé nhớ ra tất cả.
+
+Cảnh cuối. Một đóa Lunar Tear nở rộ. Nier trở lại từ đóa hoa ấy, sống lại lần nữa. Kainé, Emil và Nier được đoàn tụ.
+
+Thế giới vẫn đang chết dần. Gestalt vẫn sụp đổ. Replicant rồi cũng sẽ biến mất. Không ai biết họ còn bao nhiêu thời gian. Kainé và Emil thừa nhận quá khứ là một sai lầm, cả hành trình có khi cũng chẳng để làm gì. Nhưng họ vẫn chọn sống tiếp, vì những người mình thương, cho đến khi thế giới kết thúc. **(Ending E)**
+
+## Khi ai cũng có lý do chính đáng để được tồn tại...
 
 Chính phủ thả bom để cứu dân. Các nhà khoa học dùng trẻ em để cứu loài người. Devola và Popola nói dối để hoàn thành nhiệm vụ. Shadowlord bắt cóc vì thương Yonah. Nier giết hàng nghìn Shade cũng vì thương Yonah.
 
-Ai đúng, ai sai? Phần 2 sẽ nói tiếp.
+Vậy, đúng hay sai có còn quan trọng hay không?
