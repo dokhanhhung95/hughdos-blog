@@ -48,11 +48,13 @@ Nếu gu là biết cái gì đúng, thì dẫn dắt AI là biết cách khiế
 
 **Đặt đề bài chuẩn xác.** So sánh hai prompt cho cùng một màn hình:
 
-| Prompt mơ hồ | Prompt có ràng buộc |
-| --- | --- |
-| "Thiết kế màn hình chuyển tiền hiện đại, dễ dùng." | "Màn hình chuyển tiền cho người trên 60 tuổi. Mỗi bước chỉ một hành động chính. Bước xác nhận phải hiển thị tên người nhận, số tiền bằng chữ, và nói rõ có thể huỷ. Dùng component từ design system hiện có." |
+> Prompt mơ hồ:
+> _"Thiết kế màn hình chuyển tiền hiện đại, dễ dùng."_
 
-Prompt bên trái cho ra một màn hình "đẹp" bất kỳ. Prompt bên phải cho ra một màn hình giải quyết đúng nỗi sợ ở phần 1. Việc biến yêu cầu mơ hồ của khách hàng thành những ràng buộc như vậy chính là thiết kế.
+> Prompt có ràng buộc:
+> _"Màn hình chuyển tiền cho người trên 60 tuổi. Mỗi bước chỉ một hành động chính. Bước xác nhận phải hiển thị tên người nhận, số tiền bằng chữ, và nói rõ có thể huỷ. Dùng component từ design system hiện có."_
+
+Prompt thứ nhất cho ra một màn hình "đẹp" bất kỳ. Prompt thứ hai cho ra một màn hình giải quyết đúng nỗi sợ ở phần 1. Việc biến yêu cầu mơ hồ của khách hàng thành những ràng buộc như vậy chính là thiết kế.
 
 **Phản biện và kiểm duyệt.** Đọc output của AI như đọc bài của một bạn junior rất nhanh tay nhưng hay ẩu: tìm lỗi logic trong luồng, chỗ thiếu accessibility, và những "bẫy trải nghiệm" (dark pattern) nó vô tình học theo từ dữ liệu.
 
@@ -62,4 +64,4 @@ Prompt bên trái cho ra một màn hình "đẹp" bất kỳ. Prompt bên phả
 
 AI không lấy đi công việc của Designer. Nó lấy đi phần việc lặp đi lặp lại, và đẩy tiêu chuẩn của nghề lên cao hơn.
 
-Đừng chạy đua với máy về tốc độ vẽ màn hình hay kéo thả component. Hãy để AI làm trợ lý thực thi siêu tốc, còn mình dành thời gian cho ba việc không thuật toán nào làm thay được: hiểu sâu con người, giải đúng bài toán kinh doanh, và thổi hồn vào sản phẩm.
+Đừng chạy đua với máy về tốc độ vẽ màn hình hay kéo thả component. Hãy dẫn dắt AI trở thành cộng sự hỗ trợ, còn mình dành thời gian cho ba việc không thuật toán nào làm thay được: hiểu sâu con người, giải đúng bài toán kinh doanh, và thổi hồn vào sản phẩm.
