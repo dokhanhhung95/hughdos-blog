@@ -95,7 +95,7 @@ Còn những linh hồn đang chờ đợi, các Gestalt, thì lang thang trong 
 
 Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shadowlord**, luôn mang theo Grimoire Noir bên mình.
 
-## Năm 3361: Nier
+## Năm 3361: NieR
 
 **1.412 năm sau** đoạn mở đầu ở Shinjuku, tại một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc em gái Yonah. Cô bé mắc Black Scrawl, căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
 
@@ -103,7 +103,7 @@ Black Scrawl thực chất là dấu hiệu cho thấy linh hồn Gestalt của 
 
 Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự giúp đỡ của hai chị em song sinh Devola và Popola. Họ thật lòng yêu thương hai anh em, nhưng phía sau sự dịu dàng ấy là một sứ mệnh khác chưa từng nói ra. Một ngày nọ, khi đi tìm Yonah lén vào Đền thờ bị lãng quên để hái hoa Lệ Nguyệt, Nier gặp Grimoire Weiss — cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và đã mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các Sealed Verses, Weiss có thể chữa được Black Scrawl.
 
-Trên hành trình cứu em gái, Nier gặp hai người đồng hành: Kainé và Emil.
+Trên hành trình tìm thuốc cứu em gái, Nier gặp hai người đồng hành: Kainé và Emil.
 
 Kainé là một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ. Cô sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô đang bị một Shade tên Tyrann chiếm giữ.
 
@@ -135,7 +135,9 @@ Muốn vào lâu đài Shadowlord, cả nhóm phải phá được phong ấn ba
 - **Vương quốc sa mạc Facade:** Đám cưới của vị vua trẻ bị đàn sói sa mạc tập kích. Cô dâu Fyra chết ngay trước mắt mọi người. Đau đớn tột cùng, vị vua phá bỏ hàng loạt luật lệ cổ xưa, cùng Nier tiến vào hang ổ kết liễu con sói đầu đàn. Mảnh thứ tư đổi bằng máu và nước mắt.
 - **Rừng Thần Thoại:** Cả ngôi làng chìm trong giấc ngủ kỳ lạ của Cây Thần. Nier bước vào giấc mơ ấy, đi qua những ký ức mờ ảo từ thời đại đã mất. Khi tỉnh lại, Cây Thần trao cho cậu mảnh chìa khoá cuối cùng.
 
-Đằng sau mỗi mảnh chìa khoá là một bi kịch. Nhưng lúc này, Nier chỉ nhìn thấy kẻ thù. Gom đủ chìa khoá, cả nhóm mở được cửa lâu đài. Nhưng Devola và Popola đã đứng chờ sẵn bên trong.
+Đằng sau mỗi mảnh chìa khoá là một bi kịch. Nhưng lúc này, Nier chỉ nhìn thấy kẻ thù.
+
+Gom đủ chìa khoá, cả nhóm mở được cửa lâu đài. Nhưng Devola và Popola đã đứng chờ sẵn bên trong.
 
 Hai chị em không phải người. Họ là android, giám sát viên của Project Gestalt. Suốt bao năm giúp Nier, mục đích thật của họ là ép Grimoire Weiss hợp nhất với Grimoire Noir để hoàn thành dự án. Giờ Nier đến để giết Shadowlord, nghĩa là phá hỏng tất cả. Hai chị em quay sang chặn đường.
 
@@ -144,20 +146,20 @@ Devola gục ngã. Popola phát điên vì mất em, tung đòn ma thuật huỷ
 Sâu trong lâu đài, Nier đứng trước Shadowlord và Yonah. Mọi bí mật được phơi bày.
 
 - Shade là con người thật. Những sinh vật Nier giết suốt năm năm qua là linh hồn của loài người nguyên bản. Họ đang chờ ngày được trở về thân xác.
-- Shadowlord là Nier gốc. Hắn là Gestalt Nguyên Bản, người đã bảo vệ Yonah trong cửa hàng tiện lợi ở Shinjuku năm 2053.
+- Shadowlord là Nier gốc. Hắn là Gestalt Nguyên Bản, người đàn ông đã bảo vệ Yonah trong cửa hàng tiện lợi ở Shinjuku năm 2053.
 - Hắn bắt Yonah để cứu Yonah. Linh hồn Yonah gốc sắp sụp đổ. Cách duy nhất để giữ cô lại là đưa linh hồn ấy vào thân xác Replicant Yonah, tức cô bé Nier đang tìm.
 
-Hai người cùng tên Nier, cùng yêu thương một cô bé tên Yonah. Một người muốn cô bé quay về như cũ. Người kia muốn linh hồn cũ của cô bé được sống lại. Không ai là phản diện.
+Hai người cùng tên Nier, cùng yêu một cô bé tên Yonah. Một người muốn cô bé quay về như cũ. Người kia muốn linh hồn cũ của cô bé được sống lại. Không ai là phản diện.
 
 Grimoire Weiss hy sinh để phá lớp bảo vệ của Shadowlord. Nier tung đòn kết liễu.
 
+## **Ending A:** **Call Her Back** (Gọi cô bé trở về)
+
 Bên trong thân xác Replicant, Yonah gốc đã nghe thấy tiếng cô bé kia khóc gọi anh trai suốt năm năm. Cô hiểu cô bé ấy cũng thương anh trai mình như mình thương anh trai mình. Yonah gốc chọn rời đi, trả thân xác lại cho cô bé.
 
-Yonah mở mắt trong vòng tay Nier. Trông giống một cái kết có hậu. (Ending A)
+Yonah mở mắt trong vòng tay Nier. Một cái kết có hậu.
 
-## Cái giá của chiến thắng
-
-Nhưng hãy nhìn lại toàn bộ dòng thời gian một lần nữa.
+Hoặc không...
 
 Shadowlord là Gestalt Nguyên Bản, nguồn Maso giữ cho mọi Gestalt khác ổn định. Khi Nier giết hắn, các Gestalt còn lại bắt đầu sụp đổ hàng loạt, không còn đường quay về. Còn Replicant, những cơ thể được tạo ra để làm vỏ chứa, không thể tự sinh sản và rồi cũng sẽ biến mất.
 
@@ -165,40 +167,57 @@ Nghĩa là trong khoảnh khắc cứu được em gái, Nier đã **vô tình k
 
 Project Gestalt thất bại. Kế hoạch nghìn năm sụp đổ trong một trận đấu.
 
-## Những chiều không gian khác
+## Ending B: Lingering Memories (Những ký ức còn vương vấn)
 
-Ở một chiều không gian khác, Nier tỉnh dậy. Vẫn là năm 3366. Vẫn con đường dẫn tới lâu đài Shadowlord. Nhưng lần này, anh nghe được tiếng của Shade.
+Hành trình năm năm lặp lại, nhưng lần này qua góc nhìn của Kainé. Vì chia sẻ cơ thể với Tyrann, cô nghe và hiểu được tiếng nói của các Shade. Sự thật bị lật ngược hoàn toàn.
 
-Con Shade khổng lồ trước mặt không gầm gừ. Nó đang gọi con. Lũ Shade tràn vào làng không đến để tấn công. Chúng đang chạy trốn. Có những Shade đứng yên, van xin đừng giết. Nier vẫn vung kiếm. Yonah vẫn đang chờ anh.
+- Con Shade mặc giáp ở **Đền thờ bị lãng quên** không phải quái vật khát máu. Nó chiến đấu đến hơi thở cuối cùng chỉ để bảo vệ những đứa trẻ Shade yếu ớt đang run rẩy nấp phía sau.
+- Ở **Bãi phế liệu**, cỗ máy khổng lồ và đứa trẻ Shade chỉ là hai kẻ cô đơn tìm thấy nhau. Cậu bé Shade thậm chí chưa kịp thấy bầu trời bên ngoài trước khi bị Nier chém chết.
+- Ở **Làng vách đá**, con Shade khổng lồ bị dân làng ghê sợ thực chất vẫn mang ký ức và tình cảm với họ. Khi Emil xoá sổ ngôi làng, cậu không chỉ giết quái vật, mà chôn vùi cả những linh hồn đang van xin được sống.
+- Con sói đầu đàn ở **Facade** từng là thú cưng trung thành của một ông lão loài người. Nó dẫn bầy tấn công con người chỉ vì đồng loại của nó bị săn giết đến chết đói.
 
-Ký ức của Kainé hiện về. Một đứa trẻ lưỡng tính bị cả làng xua đuổi, ném đá. Người duy nhất thương cô là bà. Ngày bà chết dưới tay con Shade khổng lồ, Kainé cũng nằm hấp hối bên cạnh. Một Shade tên Tyrann tìm đến, nhập vào cơ thể cô để cùng trả thù. Tyrann vốn chỉ khát máu. Sống trong Kainé đủ lâu, nó bắt đầu quan tâm đến cô.
+Nier chưa từng chiến đấu với ác quỷ. Cậu chỉ đang tàn sát những sinh linh cũng biết yêu thương và sợ hãi y hệt mình.
 
-Ký ức của Devola và Popola cũng hiện về. Hai chị em android canh giữ ngôi làng hơn một nghìn năm. Họ hát cho dân làng nghe, nuôi lớn Nier và Yonah, và biết trước sẽ có ngày phải phản bội họ. Nhiệm vụ vẫn là nhiệm vụ.
+Và cái giá thật sự của chiến thắng lúc này mới lộ rõ: Shadowlord là Gestalt Nguyên Bản duy nhất giữ cho mọi linh hồn khác ổn định. Khi Nier giết hắn, toàn bộ Gestalt còn lại trên thế giới sẽ dần sụp đổ, và mọi Replicant rồi cũng sẽ mắc Black Scrawl mà chết theo. Để cứu một cô em gái, Nier đã vô tình đặt dấu chấm hết cho cả nhân loại.
 
-Kết cục không đổi. Shadowlord chết. Yonah trở về. Chỉ có Nier đã biết mình vừa giết những ai. **(Ending B)**
+Ở một góc sa mạc xa xôi, người ta thấy Emil thực chất vẫn còn sống — chỉ còn lại phần đầu lăn lóc trên cát, mang theo lời hứa sẽ gặp lại bạn bè.
 
-Ở một chiều không gian khác nữa, trận chiến cuối cùng vừa kết thúc thì Tyrann trỗi dậy. Kainé biến dần thành Shade. Nier đứng trước hai lựa chọn.
+## Ending C: Thank You (Cảm ơn)
 
-Nếu anh rút kiếm, Kainé ra đi trong vòng tay anh, thanh thản, vẫn là con người. **(Ending C)**
+Ngay sau khi Shadowlord ngã xuống, bi kịch chưa dừng lại.
 
-Nếu anh chọn cứu cô, cái giá là chính sự tồn tại của anh. Kainé sống. Nier biến mất. Không ai còn nhớ anh, kể cả Yonah. Ngay cả dữ liệu trò chơi cũng bị xoá sạch, như thể Nier chưa từng có mặt. **(Ending D)**
+Sự mất ổn định từ cái chết của Shadowlord khiến Tyrann hoàn toàn chiếm lấy cơ thể Kainé. Cô mất lý trí, hoá điên và lao vào tấn công. Nier buộc phải chiến đấu với chính người đồng hành đã sát cánh bên mình suốt năm năm.
 
-Vài năm trôi qua. Kainé cứ mơ về một chàng trai mà cô không thể nhớ tên. Emil cũng vậy. Cả hai đều có cảm giác đã quên mất một điều gì đó rất quan trọng.
+Khi Kainé gục xuống, Tyrann đưa ra cho Nier hai lựa chọn tàn nhẫn: hoặc kết liễu cô, hoặc đánh đổi chính sự tồn tại của mình để cứu cô.
 
-Theo những giấc mơ ấy, Kainé bước vào một khu rừng lạ, nơi có một cái cây khổng lồ. Càng vào sâu, cô càng gặp nhiều cỗ máy lạ lẫm chặn đường. Hai giọng nói bí ẩn vang lên, buộc tội cô. Chính nhóm của cô đã giết Gestalt Nguyên Bản. Vì thế các Gestalt phát điên, tràn ra tàn sát Replicant khắp nơi. Thế giới đang lụi tàn, và Kainé là một trong những kẻ gây ra.
+Nier chọn kết thúc nỗi đau của Kainé. Cậu đâm thanh kiếm vào người cô. Trong khoảnh khắc tỉnh táo cuối cùng, Kainé mỉm cười, khẽ nói lời cảm ơn rồi tan biến trong vòng tay cậu. Nier ở lại bên Yonah, mang theo một vết thương không bao giờ lành.
 
-Kainé vẫn đi tiếp. Cô phải đánh với những bản sao của chính mình, được tạo ra từ Maso. Mỗi bản sao là một phiên bản Kainé của quá khứ, với những vết thương cô đã mang theo cả đời.
+## Ending D: Something Very Special (Một điều vô cùng đặc biệt)
 
-Ở trung tâm cái cây là lõi của khu rừng, nơi lưu giữ mọi dữ liệu của thế giới. Trong đó có cả những ký ức Kainé đã đánh mất. Cô lao vào đập phá nó. Từng mảnh ký ức vỡ ra. Một giọng nói quen thuộc vang lên. Là giọng của Nier.
+Ở cùng ngã rẽ đó, Nier đưa ra lựa chọn còn lại: đánh đổi toàn bộ sự tồn tại của chính mình để cứu Kainé.
 
-Kainé nhớ ra tất cả.
+Tyrann giữ lời và rút đi. Đổi lại, Nier biến mất hoàn toàn khỏi thế giới — không chỉ là cái chết, mà cậu bị xoá sạch khỏi ký ức của tất cả mọi người, kể cả Yonah và Kainé. Thế giới vẫn tiếp diễn, như thể chưa từng có ai tên Nier bước đi trên mặt đất này.
 
-Cảnh cuối. Một đóa Lunar Tear nở rộ. Nier trở lại từ đóa hoa ấy, sống lại lần nữa. Kainé, Emil và Nier được đoàn tụ.
+Kainé tỉnh lại, tự do hoàn toàn. Trên tay cô là một bông hoa Lệ Nguyệt. Cô nhìn nó và bật khóc trong một nỗi trống rỗng nghẹt thở, nhưng không tài nào nhớ nổi mình vừa đánh mất điều gì quý giá.
 
-Thế giới vẫn đang chết dần. Gestalt vẫn sụp đổ. Replicant rồi cũng sẽ biến mất. Không ai biết họ còn bao nhiêu thời gian. Kainé và Emil thừa nhận quá khứ là một sai lầm, cả hành trình có khi cũng chẳng để làm gì. Nhưng họ vẫn chọn sống tiếp, vì những người mình thương, cho đến khi thế giới kết thúc. **(Ending E)**
+## Ending E: e8 a8 98 e6 86 b6 e3 82 b5 e3 83 bc e3 83 90 e3 83 bc (Máy chủ ký ức)
 
-## Khi ai cũng có lý do chính đáng để được tồn tại...
+Ba năm sau. Kainé sống lặng lẽ một mình, nhưng đêm nào cũng bị ám ảnh bởi những giấc mơ vụn vỡ về một chàng trai không rõ khuôn mặt.
 
-Chính phủ thả bom để cứu dân. Các nhà khoa học dùng trẻ em để cứu loài người. Devola và Popola nói dối để hoàn thành nhiệm vụ. Shadowlord bắt cóc vì thương Yonah. Nier giết hàng nghìn Shade cũng vì thương Yonah.
+Cô quay lại Rừng Thần Thoại. Ở đó, Cây Thần — thực chất là một siêu máy tính khổng lồ do loài người xưa dựng lên để lưu trữ toàn bộ dữ liệu ký ức của các Replicant — đang gặp sự cố nghiêm trọng.
 
-Vậy, đúng hay sai có còn quan trọng không?
+Kainé bước vào thế giới ảo bên trong Cây Thần, quyết tâm tìm lại mảnh ký ức bị đánh cắp. Cặp thực thể quản trị hệ thống xuất hiện, liên tục ngăn cản và xoá bỏ dữ liệu để bảo vệ quy luật của thế giới. Giữa lúc Kainé gần như gục ngã, Emil xuất hiện với cơ thể mới, sát cánh cùng cô chiến đấu đến cùng.
+
+Bằng tất cả sự ngoan cố và nỗi nhớ không tên, Kainé đập tan rào chắn cuối cùng, ép Cây Thần trích xuất lại bản sao lưu ký ức và tái tạo lại người cô đã quên.
+
+Giữa một bông hoa Lệ Nguyệt khổng lồ nở rộ từ đống đổ nát của thế giới ảo, Nier mở mắt — trở lại nguyên vẹn như năm cậu còn là chàng trai trẻ trước biến cố.
+
+Lần này, Kainé đã nhớ ra cậu. Giữa một thế giới đang chậm rãi đi đến hồi kết, họ cuối cùng cũng tìm lại được nhau.
+
+## Khi ai cũng có lý do chính đáng để được tồn tại
+
+Chính phủ thả bom để cứu lấy người dân. Các nhà khoa học biến trẻ em thành vũ khí để cứu cả loài người. Devola và Popola giấu đi sự thật để làm tròn sứ mệnh. Shadowlord bắt cóc vì thương Yonah. Nier giết hàng nghìn Shade, cũng chỉ vì thương Yonah.
+
+Không ai thực sự là ác quỷ. Tất cả chỉ đang làm điều duy nhất họ tin là cần thiết để bảo vệ thứ mình yêu.
+
+Và khi mọi bi kịch đều sinh ra từ tình yêu như thế — đúng hay sai, liệu có còn quan trọng không?
