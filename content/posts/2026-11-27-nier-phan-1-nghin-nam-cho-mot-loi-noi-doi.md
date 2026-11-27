@@ -101,9 +101,9 @@ Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shad
 
 Black Scrawl thực chất là dấu hiệu cho thấy linh hồn Gestalt của Yonah gốc đang dần sụp đổ. Nói cách khác, Yonah Replicant bệnh vì Yonah gốc đang chết.
 
-Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự giúp đỡ của hai chị em song sinh Devola và Popola. Họ thật lòng yêu thương hai anh em, nhưng phía sau sự dịu dàng ấy là một sứ mệnh khác chưa từng nói ra. Một ngày nọ, khi đi tìm Yonah lén vào Đền thờ bị lãng quên để hái hoa Lệ Nguyệt, Nier gặp Grimoire Weiss — cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và đã mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các Sealed Verses, Weiss có thể chữa được Black Scrawl.
+Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự giúp đỡ của hai chị em song sinh Devola và Popola. Họ thật lòng yêu thương hai anh em, nhưng phía sau sự dịu dàng ấy là một sứ mệnh khác chưa từng nói ra. Một ngày nọ, khi đi tìm Yonah lén vào Đền thờ bị lãng quên để hái hoa Lệ Nguyệt, Nier gặp Grimoire Weiss — cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và đã mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các Sealed Verses, Weiss sẽ lấy lại được sức mạnh vốn có. Khi đó hắn có thể chữa được Black Scrawl. Tràn đầy hy vọng, Nier quyết tâm lên đường tìm kiếm Sealed Verses để cứu Yonah.
 
-Trên hành trình tìm thuốc cứu em gái, Nier gặp hai người đồng hành: Kainé và Emil.
+Trên hành trình của mình, Nier gặp hai người đồng hành: Kainé và Emil.
 
 Kainé là một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ. Cô sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô đang bị một Shade tên Tyrann chiếm giữ.
 
