@@ -1,8 +1,12 @@
 ---
-title: "Điểm tin Liverpool 27/11: Hai trận, bảy bàn, sạch lưới trước derby Merseyside"
+title: 'Điểm tin Liverpool 27/11: Hai trận, bảy bàn, sạch lưới trước derby Merseyside'
 date: 2026-11-27
 category: football
-tags: ["Liverpool", "Premier League"]
+tags:
+  - Liverpool
+  - Premier League
+cover: /images/uploads/pasted-image-1795783017831.png
+excerpt: ''
 draft: false
 ---
 
