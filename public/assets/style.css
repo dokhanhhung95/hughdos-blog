@@ -33,6 +33,7 @@ a { color: var(--fg); text-decoration: none; }
 a:hover { color: var(--muted); }
 img { max-width: 100%; height: auto; }
 .wrap { max-width: var(--wrap); margin: 0 auto; padding-left: var(--pad); padding-right: var(--pad); }
+[hidden] { display: none !important; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .eyebrow { margin: 0 0 20px; display: flex; align-items: center; gap: 20px; font-size: 14px; color: var(--muted); }
 .dash { flex: 0 0 40px; height: 1px; background: var(--field); }
