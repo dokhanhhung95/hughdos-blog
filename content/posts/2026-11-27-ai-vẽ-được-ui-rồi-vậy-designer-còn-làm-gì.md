@@ -1,6 +1,6 @@
 ---
 title: AI vẽ được UI rồi, vậy Designer còn làm gì?
-date: 2026-11-27T23:45
+date: 2026-07-30T23:45
 category: design
 tags:
   - design
