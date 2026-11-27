@@ -1,5 +1,5 @@
 ---
-title: 'NieR Gestalt/Replicant (Phần 1): Sự kết thúc của loài người'
+title: 'NieR Gestalt/Replicant (P.1): Sự kết thúc của loài người'
 date: 2026-11-27T08:46
 category: game
 tags:
@@ -87,9 +87,7 @@ Nơi trú ẩn ấy thực chất đã được sắp đặt để thu hút ngư
 
 Nier chấp nhận hiến linh hồn mình cho dự án. Đổi lại, Yonah, người cũng đã nhiễm bệnh, sẽ được bảo vệ và chữa trị khi có thuốc.
 
-## Hơn một nghìn năm im lặng
-
-Thời gian trôi đi. Linh hồn loài người ngủ yên chờ ngày trở về. Nhưng đúng như các nhà khoa học lo sợ, các Replicant bắt đầu **có ý thức**. Họ suy nghĩ như con người, yêu thương như con người, rồi dần dần xây dựng làng mạc, vương quốc và một nền văn hoá mang dáng dấp thời trung cổ.
+Hơn một ngàn năm sau, linh hồn loài người ngủ yên chờ ngày trở về. Nhưng đúng như các nhà khoa học lo sợ, các Replicant bắt đầu **có ý thức**. Họ suy nghĩ như con người, yêu thương như con người, rồi dần dần xây dựng làng mạc, vương quốc và một nền văn hoá mang dáng dấp thời trung cổ.
 
 Họ không biết mình là bản sao. Họ tin mình chính là loài người.
 
@@ -97,7 +95,7 @@ Còn những linh hồn đang chờ đợi, các Gestalt, thì lang thang trong 
 
 Một Shade đặc biệt mạnh thì đứng trên tất cả. Hắn là **Shadowlord**, luôn mang theo Grimoire Noir bên mình.
 
-## Năm 3361: Người anh tìm thuốc cho em
+## Năm 3361: Nier
 
 **1.312 năm sau đoạn mở đầu** (bản Replicant là 1.412 năm), ở một ngôi làng nhỏ, có một Replicant tên Nier đang chăm sóc Yonah. Cô bé mắc **Black Scrawl**, căn bệnh khiến những dòng chữ đen hiện lên trên da và chưa ai chữa khỏi.
 
@@ -105,32 +103,47 @@ Black Scrawl thực chất là dấu hiệu cho thấy Gestalt của Yonah gốc
 
 Nier nhận đủ thứ việc vặt trong làng để kiếm tiền mua thuốc, dưới sự chỉ dẫn của Devola và Popola. Hai chị em là những người tốt bụng nhất làng, hay ít nhất họ diễn vai đó rất giỏi. Rồi trong một ngôi đền bị phong ấn, Nier gặp **Grimoire Weiss**, cuốn sách biết nói, kiêu ngạo, mồm mép độc địa và mất trí nhớ. Theo truyền thuyết, nếu thu thập đủ các **Sealed Verses**, Weiss có thể chữa được Black Scrawl.
 
-Trên hành trình đi tìm, Nier gặp hai người đồng hành nữa.
+Trên hành trình cứu em gái, Nier gặp hai người đồng hành: **Kainé** và **Emil.** **Kainé là** một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ. Cô sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô bị một Shade tên **Tyrann** chiếm giữ. Còn **Emil** là một cậu bé luôn bịt mắt, vì ánh nhìn của cậu biến mọi thứ thành đá. Emil sống một mình trong biệt thự lớn, bị dân làng sợ hãi. Cậu không biết rằng mình chính là **Thí nghiệm số 7** từ hơn một nghìn năm trước.
 
-- **Kainé:** một nữ chiến binh cầm hai thanh kiếm, ăn nói thô lỗ, sống chỉ để trả thù con Shade khổng lồ đã giết bà mình. Kainé bị xa lánh vì là người lưỡng tính, và một nửa cơ thể cô bị một Shade tên **Tyrann** chiếm giữ.
-- **Emil:** một cậu bé luôn bịt mắt, vì ánh nhìn của cậu biến mọi thứ thành đá. Emil sống một mình trong biệt thự lớn, bị dân làng sợ hãi. Cậu không biết rằng mình chính là **Thí nghiệm số 7** từ hơn một nghìn năm trước.
+![](/images/uploads/20261127-195035.png)
 
 Rồi biến cố xảy ra. Shadowlord tấn công làng, kéo theo một con Shade khổng lồ. Để phong ấn nó, Kainé chấp nhận để Emil **hoá đá chính mình**. Cũng trong ngày hôm đó, Shadowlord bắt Yonah đi mất.
 
 Nier mất cả hai người quan trọng nhất trong cùng một ngày.
 
-## Năm 3366: Sự thật ở cuối con đường
+## Năm 3366: Sự thật
 
-**Năm năm sau**, Nier không còn là người của ngày xưa. Ánh mắt anh lạnh hơn và đường kiếm nặng hơn. Anh tìm được cách giải phong ấn, Emil trả tự do cho Kainé, và cả nhóm lên đường tới lâu đài Shadowlord.
+Năm năm trôi qua. Yonah vẫn nằm trong tay Shadowlord. Nier giờ đã là một chiến binh thực thụ, ít nói hơn, lạnh lùng hơn.
 
-Nửa sau của hành trình là một chuỗi mất mát. Emil quay về phòng thí nghiệm cũ, đối mặt với Thí nghiệm số 6, chính là người chị mình đã phong ấn năm xưa, và biết được mình thật ra là ai. Cơ thể cậu biến dạng dần thành thứ gì đó không còn là người.
+Việc đầu tiên là cứu Kainé. Để tìm cách giải lời nguyền hoá đá, cả nhóm tiến vào tầng hầm dưới biệt thự của Emil. Bên dưới là một phòng thí nghiệm cũ từ thời con người. Ở đó, Emil gặp lại Thí nghiệm số 6, người chị bị chính cậu phong ấn hơn một nghìn năm trước. Emil buộc phải đánh với chị mình. Sau trận đó, Emil nhớ lại mình là ai, hấp thụ sức mạnh của chị, và cơ thể cậu biến dạng thành một bộ xương mang hình người.
 
-Trước cổng lâu đài, Devola và Popola lộ mặt thật. Họ là giám sát viên của Project Gestalt. Mọi việc họ giúp Nier từ đầu đến giờ đều nhằm một mục đích: đưa Grimoire Weiss đến đúng nơi để hoàn thành dự án. Giờ Nier đã vượt khỏi tầm kiểm soát, nên họ phải ngăn anh lại.
+Với nguồn sức mạnh mới, Emil giải được lời nguyền. Kainé tỉnh lại sau năm năm và quay về đội.
 
-Emil hy sinh để mở đường cho cả nhóm. Rồi Nier đối mặt với Shadowlord, và mọi mảnh ghép cuối cùng cũng khớp vào nhau:
+Muốn vào lâu đài Shadowlord, cả nhóm phải phá được phong ấn bao quanh nó. Năm mảnh chìa khoá nằm rải rác ở năm vùng đất. Hành trình đi tìm bắt đầu, và mỗi nơi họ đi qua đều để lại một vết sẹo.
 
-- **Shade chính là con người nguyên bản.** Những sinh vật Nier chém hàng nghìn con suốt hành trình là linh hồn của loài người thật, những người đã chọn ngủ một giấc dài để chờ ngày sống lại.
-- **Shadowlord chính là Nier gốc.** Hắn là Gestalt Nguyên Bản, người đã bảo vệ Yonah ở Shinjuku năm xưa.
-- **Hắn bắt Yonah vì hắn yêu Yonah.** Biết Yonah gốc đang tái phát không thể cứu vãn, Shadowlord muốn hợp nhất linh hồn cô vào cơ thể Replicant ngay lập tức, trước khi quá muộn.
+- **Đền thờ bị lãng quên:** Cả nhóm quay lại nơi từng tìm thấy Grimoire Weiss. Một Shade khổng lồ mặc giáp đứng chắn đường, chiến đấu điên cuồng như thể đang bảo vệ thứ gì đó phía sau. Nier hạ gục nó và lấy được mảnh đầu tiên.
+- **Bãi phế liệu:** Cậu bé thợ rèn năm xưa nay đã lớn, nhưng nỗi đau mất anh trai đã biến cậu thành kẻ ám ảnh với vũ khí và sự trả thù. Sâu trong khu nhà máy bỏ hoang, Nier phá huỷ một cỗ máy khổng lồ đang đồng hành cùng một Shade nhỏ bé. Mảnh thứ hai nằm lại giữa đống sắt vụn.
+- **Làng vách đá:** Ngôi làng vốn khép kín nay bị một Shade khổng lồ tấn công. Trong khoảnh khắc tuyệt vọng muốn bảo vệ mọi người, Emil mất kiểm soát sức mạnh. Một luồng sáng xé toạc bầu trời, xoá sổ cả ngôi làng thành một hố sâu khổng lồ. Emil gục ngã trong tội lỗi. Nier nhặt mảnh thứ ba giữa đống tro tàn.
+- **Vương quốc sa mạc Facade:** Đám cưới của vị vua trẻ bị đàn sói sa mạc tập kích. Cô dâu Fyra chết ngay trước mắt mọi người. Đau đớn tột cùng, vị vua phá bỏ hàng loạt luật lệ cổ xưa, cùng Nier tiến vào hang ổ kết liễu con sói đầu đàn. Mảnh thứ tư đổi bằng máu và nước mắt.
+- **Rừng Thần Thoại:** Cả ngôi làng chìm trong giấc ngủ kỳ lạ của Cây Thần. Nier bước vào giấc mơ ấy, đi qua những ký ức mờ ảo từ thời đại đã mất. Khi tỉnh lại, Cây Thần trao cho cậu mảnh chìa khoá cuối cùng.
 
-Trận chiến cuối cùng là cuộc đối đầu giữa **hai phiên bản của cùng một người**, cùng cố cứu **hai phiên bản của cùng một cô bé**. Không ai là phản diện.
+Đằng sau mỗi mảnh chìa khoá là một bi kịch. Nhưng lúc này, Nier chỉ nhìn thấy kẻ thù. Gom đủ chìa khoá, cả nhóm mở được cửa lâu đài. Nhưng Devola và Popola đã đứng chờ sẵn bên trong.
 
-Grimoire Weiss hy sinh để làm suy yếu Shadowlord, và Nier tung đòn kết liễu. Bên trong cơ thể Replicant, Yonah gốc nghe thấy tiếng khóc của cô bé kia suốt năm năm qua, và hiểu rằng cô bé ấy cũng yêu "anh trai" mình nhiều như mình yêu anh trai mình. Yonah gốc chọn rời đi, trả lại cơ thể.
+Hai chị em không phải người. Họ là android, giám sát viên của Project Gestalt. Suốt bao năm giúp Nier, mục đích thật của họ là ép Grimoire Weiss hợp nhất với Grimoire Noir để hoàn thành dự án. Giờ Nier đến để giết Shadowlord, nghĩa là phá hỏng tất cả. Hai chị em quay sang chặn đường.
+
+Devola gục ngã. Popola phát điên vì mất em, tung đòn ma thuật huỷ diệt định kéo cả nhóm chết chung. Để Nier và Kainé kịp tiến vào trong, Emil dùng toàn bộ sức mạnh còn lại chặn đứng Popola. Cậu hy sinh.
+
+Sâu trong lâu đài, Nier đứng trước Shadowlord và Yonah. Mọi bí mật được phơi bày.
+
+- Shade là con người thật. Những sinh vật Nier giết suốt năm năm qua là linh hồn của loài người nguyên bản. Họ đang chờ ngày được trở về thân xác.
+- Shadowlord là Nier gốc. Hắn là Gestalt Nguyên Bản, người đã bảo vệ Yonah trong cửa hàng tiện lợi ở Shinjuku năm 2053.
+- Hắn bắt Yonah để cứu Yonah. Linh hồn Yonah gốc sắp sụp đổ. Cách duy nhất để giữ cô lại là đưa linh hồn ấy vào thân xác Replicant Yonah, tức cô bé Nier đang tìm.
+
+Hai người cùng tên Nier, cùng yêu thương một cô bé tên Yonah. Một người muốn cô bé quay về như cũ. Người kia muốn linh hồn cũ của cô bé được sống lại. Không ai là phản diện.
+
+Grimoire Weiss hy sinh để phá lớp bảo vệ của Shadowlord. Nier tung đòn kết liễu.
+
+Bên trong thân xác Replicant, Yonah gốc đã nghe thấy tiếng cô bé kia khóc gọi anh trai suốt năm năm. Cô hiểu cô bé ấy cũng thương anh trai mình như mình thương anh trai mình. Yonah gốc chọn rời đi, trả thân xác lại cho cô bé.
 
 Yonah mở mắt trong vòng tay Nier. Trông giống một cái kết có hậu. (Ending A)
 
