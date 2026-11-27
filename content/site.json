@@ -1,6 +1,6 @@
 {
   "title": "Hugh Do",
-  "tagline": "Game, Football, Design. Family & More",
+  "tagline": "Game, Football, Design & More",
   "quote": "Pixel by pixel. Quest by quest. Match by match.",
   "url": "https://hughdo.com",
   "email": "dokhanhhung95@gmail.com",
@@ -23,12 +23,12 @@
     {
       "slug": "more",
       "name": "More",
-      "description": "Gia đình, đồng hồ và những điều khác làm cuộc sống thú vị hơn."
+      "description": "Những điều làm cuộc sống thú vị hơn."
     }
   ],
   "about": {
     "heading_line1": "Xin chào,",
     "heading_line2": "Tôi là Hugh.",
-    "intro": "Một UX/UI designer, thích Pokémon, Zelda và đội bóng Liverpool. Đây là nơi tôi ghi lại những thứ mình chơi, xem và làm."
+    "intro": "UX/UI designer, thích Pokémon, Zelda và đội bóng Liverpool. Đây là nơi tôi ghi lại những thứ mình chơi, xem và làm."
   }
 }
