@@ -16,7 +16,7 @@
 - Gạch đầu dòng dạng `- **Nhãn:** nội dung` khi liệt kê, so sánh; bảng khi so sánh nhiều chiều.
 - Trích dẫn dùng `>`.
 - Độ dài 1.500–2.500 từ. Đoạn văn ngắn, dễ đọc lướt.
-- Không chèn ảnh từ internet. Để trống `cover` nếu không có ảnh trong `public/images/`.
+- Ảnh bìa: KHÔNG để trống. Sau khi tạo file bài, chạy `python3 tools/make-cover.py content/posts/<file>.md` để tạo ảnh bìa tối giản (21:9, đen trắng, điểm nhấn đỏ) và tự điền dòng `cover:`. Không lấy ảnh từ internet. Anh Hưng sẽ tự thay ảnh nếu muốn.
 
 ## Series
 - Tối đa 3 phần. Tiêu đề: `Tên series (Phần N): Tiêu đề phụ`.
