@@ -16,7 +16,7 @@ Chỉ vài năm trước, dựng một bộ wireframe hoàn chỉnh hay một m�
 
 Vậy nên câu hỏi "Designer có bị thay thế không?" là hoàn toàn chính đáng. Kỷ nguyên của "thợ vẽ giao diện" (pixel pusher) đang khép lại. Khi một giao diện "đẹp và đúng chuẩn" không còn là lợi thế độc quyền, giá trị của Designer dịch chuyển sang 4 năng lực mà AI chưa với tới.
 
-## Thấu cảm và đọc vị bối cảnh
+## 1. Thấu cảm và đọc vị bối cảnh
 
 AI tổng hợp dữ liệu từ hàng triệu sản phẩm có sẵn để đưa ra phương án "hợp lý nhất về mặt xác suất". Nhưng nó không ngồi cạnh người dùng, không thấy họ ngập ngừng, không nghe họ thở dài.
 
@@ -24,7 +24,7 @@ Lấy ví dụ một ứng dụng tài chính cho người lớn tuổi. AI sẽ
 
 AI trả lời tốt câu hỏi _"Người dùng thường làm gì?"_. Còn _"Tại sao họ lại cảm thấy như vậy?"_ vẫn là câu hỏi của con người.
 
-## Tư duy sản phẩm và trách nhiệm đánh đổi
+## 2. Tư duy sản phẩm và trách nhiệm đánh đổi
 
 Thiết kế chưa bao giờ chỉ là bài toán làm cho đẹp. Đó là việc cân bằng liên tục giữa ba thứ: nhu cầu người dùng, mục tiêu kinh doanh và giới hạn kỹ thuật.
 
@@ -32,7 +32,7 @@ Một tình huống quen thuộc: team muốn tăng tỷ lệ đăng ký nên đ
 
 Nhưng AI không **chịu trách nhiệm** cho quyết định. Người chọn phương án, đứng ra bảo vệ nó trước PM và kỹ sư, rồi nhận phần sai nếu số liệu xấu đi, vẫn là Designer. Đặt đúng vấn đề, nhìn ra bức tranh tổng thể và dám quyết một đánh đổi: đó mới là tầm vóc của một Designer giỏi.
 
-## Gu thẩm mỹ và bản sắc
+## 3. Gu thẩm mỹ và bản sắc
 
 Một nghịch lý của thời AI: càng nhiều sản phẩm được AI thiết kế, thị trường càng dễ chìm vào "biển giao diện na ná nhau" (The Sea of Sameness). AI học từ mức trung bình cộng của quá khứ, nên thứ nó tạo ra thường dừng ở "an toàn" và "trung bình khá".
 
@@ -40,7 +40,7 @@ Nhớ lại hiệu ứng nảy ngược khi cuộn quá cuối danh sách trên 
 
 Khi AI có thể đẻ ra mười phương án trong một phút, kỹ năng quan trọng không còn là vẽ ra phương án thứ mười một. Nó là biết chọn đúng một, biết vì sao chín cái kia không ổn, và dám phá một quy tắc cũ khi có lý do. Đó là gu, hay nói cách khác là năng lực biên tập (curation).
 
-## Dẫn dắt AI (AI Orchestration)
+## 4. Dẫn dắt AI (AI Orchestration)
 
 Nếu gu là biết cái gì đúng, thì dẫn dắt AI là biết cách khiến nó làm ra cái đúng đó. AI không tự biết thế nào là một trải nghiệm tốt. Nó chỉ giỏi đúng bằng đề bài nó nhận được.
 
