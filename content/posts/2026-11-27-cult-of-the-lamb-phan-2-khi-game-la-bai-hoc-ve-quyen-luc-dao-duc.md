@@ -1,6 +1,6 @@
 ---
 title: 'Cult of the Lamb (Phần 2): Khi Game Là Bài Học Về Quyền Lực & Đạo Đức'
-date: 2026-11-27T08:18
+date: 2025-12-27T08:18
 category: game
 tags:
   - chia sẻ
@@ -9,6 +9,7 @@ tags:
 cover: /images/2025/07/image.webp
 excerpt: ''
 draft: false
+archived: false
 ---
 
 Ở phần 1, tôi đã kể chuyện chú cừu cuối cùng bị chặt đầu, được hồi sinh rồi đi lập giáo phái để trả món nợ với Narinder. Nghe thì như một tựa roguelike dễ thương, đánh quái, xây làng, nuôi thú. Nhưng sau khoảng 20 tiếng làm một vị Giáo chủ chính nghĩa, tôi chợt nhận ra mình vừa ra lệnh tế sống một tín đồ già để đổi lấy tài nguyên, chỉ vì lý do đơn giản: "Đằng nào tên này chẳng chết, để không cũng phí?"
