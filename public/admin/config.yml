@@ -53,6 +53,16 @@ collections:
       - { label: Bản nháp, name: draft, widget: boolean, default: false, required: false, hint: "Bật lên thì bài chưa hiện trên site." }
       - { label: Nội dung, name: body, widget: markdown }
 
+  - name: ideas
+    label: Ý tưởng bài viết
+    files:
+      - name: ideas
+        label: Hàng chờ viết tự động
+        file: content/ideas.md
+        format: frontmatter
+        fields:
+          - { label: Nội dung, name: body, widget: markdown, hint: "Thêm chủ đề dưới mục Hàng chờ. Mẫu: - [ ] Tên chủ đề | game  hoặc  - [ ] Series: Tên | more | 3 phần" }
+
   - name: settings
     label: Cài đặt site
     files:
