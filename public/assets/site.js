@@ -192,11 +192,10 @@
   // ---------- Bài viết: sao chép liên kết, mục lục đang đọc ----------
   document.querySelectorAll('[data-copy-link]').forEach(function (b) {
     b.addEventListener('click', function () {
-      var done = function () { var t = b.textContent; b.textContent = 'Đã sao chép ✓'; setTimeout(function () { b.textContent = t; }, 1600); };
+      var done = function () { b.classList.add('done'); setTimeout(function () { b.classList.remove('done'); }, 1600); };
       if (navigator.clipboard) navigator.clipboard.writeText(location.href.split('#')[0]).then(done, done); else done();
     });
   });
-  // Mục lục: desktop luôn mở, mobile mặc định thu gọn
   var tocBox = document.querySelector('[data-toc]');
   if (tocBox) {
     var mq = matchMedia('(min-width: 768px)');

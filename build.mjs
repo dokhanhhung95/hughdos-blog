@@ -161,6 +161,20 @@ ${body}
 }
 const BUILD_ID = Date.now().toString(36);
 
+const SHARE_ICONS = {"facebook": "<path d=\"M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H8v3h2.5V21z\"/>", "linkedin": "<path d=\"M4.5 9h3.3v10.5H4.5zM6.15 3.8a1.9 1.9 0 1 1 0 3.8 1.9 1.9 0 0 1 0-3.8zM10 9h3.2v1.45h.05c.45-.85 1.55-1.75 3.2-1.75 3.4 0 4.05 2.25 4.05 5.15v5.65h-3.3v-5c0-1.2 0-2.75-1.7-2.75s-1.95 1.3-1.95 2.65v5.1H10z\"/>", "x": "<path d=\"M17.2 3.5h2.9l-6.4 7.3 7.5 9.7h-5.9l-4.6-6-5.3 6H2.5l6.8-7.8-7.2-9.2h6l4.2 5.5zm-1 15.3h1.6L7.4 5.1H5.7z\"/>", "threads": "<path d=\"M16.6 11.2c-.1 0-.2-.1-.3-.1-.2-2.9-1.8-4.6-4.5-4.6h-.1c-1.6 0-2.9.7-3.7 1.9l1.5 1c.6-.9 1.5-1.1 2.2-1.1 .9 0 1.6.3 2 .8.3.4.5.9.6 1.5-.8-.1-1.6-.2-2.5-.1-2.5.1-4.1 1.6-4 3.6.1 1 .6 1.9 1.4 2.4.7.5 1.6.7 2.5.6 1.2-.1 2.2-.5 2.8-1.4.5-.7.8-1.5 1-2.6.6.4 1 .8 1.3 1.4.5 1.1.5 2.8-.9 4.2-1.2 1.2-2.7 1.8-4.9 1.8-2.4 0-4.3-.8-5.5-2.3-1.1-1.4-1.7-3.5-1.7-6.1s.6-4.7 1.7-6.1c1.2-1.5 3.1-2.3 5.5-2.3 2.5 0 4.4.8 5.6 2.3.6.8 1.1 1.7 1.4 2.8l1.8-.5c-.4-1.4-1-2.6-1.8-3.6C17 2.9 14.7 1.9 11.7 1.9c-3 0-5.3 1-6.9 3C3.4 6.6 2.7 9 2.7 12s.7 5.4 2.1 7.1c1.6 2 3.9 3 6.9 3 2.7 0 4.5-.7 6.1-2.3 2-2 2-4.6 1.3-6.2-.5-1.1-1.4-2-2.5-2.4zm-4.2 4c-1 .1-2.1-.4-2.1-1.3 0-.7.5-1.5 2.1-1.6h.6c.6 0 1.1.1 1.6.2-.2 2.3-1.3 2.6-2.2 2.7z\"/>", "link": "<path d=\"M10 13.5a4.5 4.5 0 0 0 6.4.4l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1.4 1.4M14 10.5a4.5 4.5 0 0 0-6.4-.4L5 12.7a4.5 4.5 0 0 0 6.4 6.4l1.4-1.4\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"};
+function shareButtons(p) {
+  const u = encodeURIComponent(SITE_URL + p.url), t = encodeURIComponent(p.title);
+  const links = [
+    ['facebook', 'Chia sẻ lên Facebook', `https://www.facebook.com/sharer/sharer.php?u=${u}`],
+    ['linkedin', 'Chia sẻ lên LinkedIn', `https://www.linkedin.com/sharing/share-offsite/?url=${u}`],
+    ['x', 'Chia sẻ lên X', `https://x.com/intent/post?text=${t}&url=${u}`],
+    ['threads', 'Chia sẻ lên Threads', `https://www.threads.net/intent/post?text=${t}%20${u}`]
+  ];
+  const icon = k => `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">${SHARE_ICONS[k]}</svg>`;
+  return links.map(([k, label, href]) => `<a class="share-btn" href="${href}" target="_blank" rel="noopener" aria-label="${label}" title="${label}">${icon(k)}</a>`).join('')
+    + `<button type="button" class="share-btn" data-copy-link aria-label="Sao chép liên kết" title="Sao chép liên kết">${icon('link')}</button>`;
+}
+
 const postRow = (p, { excerpt = false, cat = true } = {}) => `<a class="post-row" href="${p.url}" data-cat="${p.category}">
   <span class="t"><span class="title">${esc(p.title)}</span>${excerpt ? `<span class="ex">${esc(p.excerpt)}</span>` : ''}</span>
   ${cat ? `<span class="cat">${esc(catBySlug[p.category].name)}</span>` : ''}<span class="date">${fmtDate(p.date)}</span>
@@ -239,9 +253,9 @@ ${header(p.category)}
     ${toc}
     <div class="prose">
 ${p.html}
-      <div class="author">
-        <div class="who">${logo(36)}<div><p class="name">${esc(site.title)}</p><p class="q">${esc(site.quote)}</p></div></div>
-        <button type="button" class="btn" data-copy-link>Sao chép liên kết</button>
+      <div class="share">
+        <p class="share-label">Chia sẻ bài viết</p>
+        <div class="share-btns">${shareButtons(p)}</div>
       </div>
     </div>
   </div>

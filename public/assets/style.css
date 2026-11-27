@@ -162,7 +162,7 @@ img { max-width: 100%; height: auto; }
 .latest .side { flex: 1 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 20px; }
 .latest .side p { margin: 0; font-size: 17px; color: var(--text2); }
 .meta { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 14px; color: var(--muted); }
-.cover { display: block; aspect-ratio: 21 / 9; background: var(--soft); border-radius: 2px; overflow: hidden; }
+.cover { display: block; aspect-ratio: 2 / 1; background: var(--soft); border-radius: 2px; overflow: hidden; }
 .cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .all-posts { padding-top: 120px; }
 .section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 24px; }
@@ -209,7 +209,7 @@ img { max-width: 100%; height: auto; }
   .latest-inner { display: flex; flex-direction: column; }
   .latest .head { gap: 16px; margin-bottom: 0; }
   .latest h2 { font-size: 32px; }
-  .latest .cover { aspect-ratio: 16 / 11; margin: 0 0 24px; order: -1; }
+  .latest .cover { margin: 0 0 24px; order: -1; }
   .all-posts { padding-top: 64px; }
 }
 
@@ -262,11 +262,13 @@ img { max-width: 100%; height: auto; }
 .prose .embed-video { position: relative; aspect-ratio: 16 / 9; }
 .prose .embed iframe { width: 100%; height: 100%; border: 0; border-radius: 2px; }
 .prose .embed-spotify iframe { height: 152px; }
-.author { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between; margin-top: 64px; padding: 32px 0; border-top: 1px solid var(--field); font-size: 14px; }
-.author .who { display: flex; gap: 16px; align-items: center; }
-.author svg { fill: var(--logo); }
-.author .name { margin: 0; font-weight: 500; font-size: 15px; color: var(--fg); }
-.author .q { margin: 0; color: var(--muted); }
+.share { display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: center; justify-content: space-between; margin-top: 64px; padding: 32px 0; border-top: 1px solid var(--field); }
+.prose .share-label { margin: 0; font-size: 15px; font-weight: 500; color: var(--fg); }
+.share-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.prose .share-btn { position: relative; display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; border-radius: 999px; border: 1px solid var(--field); background: transparent; color: var(--fg); cursor: pointer; transition: border-color .3s, color .3s; }
+.prose .share-btn:hover, .prose .share-btn:focus-visible { color: var(--red); border-color: var(--fg); }
+.prose .share-btn.done { color: var(--red); border-color: var(--red); }
+.share-btn.done::after { content: 'Đã sao chép'; position: absolute; bottom: calc(100% + 8px); right: 0; padding: 4px 10px; border-radius: 6px; background: var(--fg); color: var(--bg); font-size: 12px; white-space: nowrap; }
 .btn { display: inline-flex; align-items: center; gap: 10px; height: 44px; padding: 0 20px; border-radius: 999px; border: 1px solid var(--field); background: transparent; color: var(--fg); font: 500 14px 'Be Vietnam Pro', sans-serif; cursor: pointer; }
 .btn:hover { color: var(--fg); border-color: var(--fg); }
 .btn.solid { background: var(--fg); color: var(--bg); border-color: var(--fg); height: 48px; padding: 0 24px; font-size: 15px; }
