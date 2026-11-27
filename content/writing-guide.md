@@ -16,7 +16,7 @@
 - Gạch đầu dòng dạng `- **Nhãn:** nội dung` khi liệt kê, so sánh; bảng khi so sánh nhiều chiều.
 - Trích dẫn dùng `>`.
 - Độ dài 1.500–2.500 từ. Đoạn văn ngắn, dễ đọc lướt.
-- Ảnh bìa: KHÔNG để trống. Sau khi tạo file bài, chạy `python3 tools/make-cover.py content/posts/<file>.md` để tạo ảnh bìa tối giản (21:9, đen trắng, điểm nhấn đỏ) và tự điền dòng `cover:`. Không lấy ảnh từ internet. Anh Hưng sẽ tự thay ảnh nếu muốn.
+- Ảnh bìa: bài tự động KHÔNG tạo ảnh bìa (không chạy `tools/make-cover.py`, không thêm dòng `cover:`). Không lấy ảnh từ internet. Anh Hưng tự chọn và thêm ảnh.
 
 ## Series
 - Tối đa 3 phần. Tiêu đề: `Tên series (Phần N): Tiêu đề phụ`.
@@ -36,4 +36,3 @@
 - Không dịch nguyên văn. Viết lại bằng lời mình; mỗi nguồn trích tối đa một câu ngắn trong ngoặc kép, ghi tên tờ báo (và phóng viên nếu có). Cuối bài có mục "Nguồn" kèm link.
 - Tin chưa được nguồn tier cao xác nhận thì không đưa, hoặc ghi rõ "chưa xác nhận".
 - Giờ thi đấu đổi sang giờ Việt Nam (GMT+7).
-- Không tạo ảnh bìa cho bài Liverpool hằng tuần (không chạy make-cover.py, không thêm `cover:`); anh Hưng tự chọn ảnh.
