@@ -106,7 +106,7 @@ const searchForm = id => `<form class="search" role="search" action="/tim-kiem/"
 const themeToggle = () => `<div class="theme-toggle" role="group" aria-label="Giao diện"><button type="button" data-theme-set="light" aria-pressed="true" aria-label="Giao diện sáng">${ICON_SUN}<span>Sáng</span></button><button type="button" data-theme-set="dark" aria-pressed="false" aria-label="Giao diện tối">${ICON_MOON}<span>Tối</span></button></div>`;
 
 function header(current) {
-  const nav = cats.map(c => `<a href="${catUrl(c.slug)}"${current === c.slug ? ' aria-current="page"' : ''}>${esc(c.name)}</a>`).join('');
+  const nav = cats.map(c => `<a href="${catUrl(c.slug)}"${current === c.slug ? ' aria-current="page"' : ''}><span class="lbl">${esc(c.name)}</span></a>`).join('');
   return `<header class="site-header">
   <div class="left"><a class="logo-link" href="/" aria-label="Trang chủ">${logo(30)}</a>${searchForm('q-top')}</div>
   <div class="right"><nav class="top-nav" aria-label="Chuyên mục">${nav}</nav>${themeToggle()}</div>
@@ -170,7 +170,7 @@ const coverImg = (src, alt, eager = false) => src ? `<img src="${esc(src)}" alt=
 // ---------- các trang ----------
 function homePage(posts) {
   const [latest, ...rest] = posts;
-  const nav = cats.map((c, i) => `<a href="${catUrl(c.slug)}" data-i="${i}">${c.slug === 'more' ? '<span class="amp">&amp; </span>' : ''}${esc(c.name)}</a>`).join('');
+  const nav = cats.map((c, i) => `<a href="${catUrl(c.slug)}" data-i="${i}"><span class="lbl">${c.slug === 'more' ? '<span class="amp">&amp; </span>' : ''}${esc(c.name)}</span></a>`).join('');
   const art = `<svg id="art" viewBox="-150 -60 900 700" fill="none" aria-hidden="true">
 <g style="stroke: var(--art-line)" stroke-width="1"><line x1="-200" y1="348.8" x2="800" y2="-214.0" vector-effect="non-scaling-stroke"/><line x1="-200" y1="-212.8" x2="800" y2="350.0" vector-effect="non-scaling-stroke"/><line x1="-200" y1="261.2" x2="800" y2="824.0" vector-effect="non-scaling-stroke"/><line x1="-200" y1="822.8" x2="800" y2="260.0" vector-effect="non-scaling-stroke"/><line x1="84" y1="-120" x2="84" y2="720" vector-effect="non-scaling-stroke"/><line x1="514" y1="-120" x2="514" y2="720" vector-effect="non-scaling-stroke"/><line x1="299" y1="-120" x2="299" y2="720" stroke-dasharray="4 6" vector-effect="non-scaling-stroke"/><line x1="-200" y1="305" x2="800" y2="305" stroke-dasharray="4 6" vector-effect="non-scaling-stroke"/></g>
 <text x="566" y="220" style="fill: var(--art-text)" font-size="14" font-family="Be Vietnam Pro, sans-serif" letter-spacing="1">30°</text>
