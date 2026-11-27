@@ -201,9 +201,18 @@ ${latest ? `<section class="latest wrap" aria-labelledby="latest-h">
     ${latest.cover ? `<a class="cover" href="${latest.url}" tabindex="-1" aria-hidden="true">${coverImg(latest.cover, '')}</a>` : ''}
   </div>
 </section>` : ''}
-${rest.length ? `<section class="all-posts wrap">
-  <div class="section-head"><h2>Bài viết</h2><a class="text-link" href="/tat-ca/">Tất cả bài viết</a></div>
-  <div class="list">${rest.slice(0, 8).map(p => postRow(p)).join('')}<div class="list-end"></div></div>
+${rest.length ? `<section class="all-posts wrap" aria-labelledby="by-cat-h">
+  <div class="section-head"><h2 id="by-cat-h">Theo chuyên mục</h2><a class="text-link" href="/tat-ca/">Tất cả bài viết</a></div>
+  <div class="cat-groups">${cats.map(c => {
+    const all = posts.filter(p => p.category === c.slug);
+    const shown = rest.filter(p => p.category === c.slug).slice(0, 3);
+    if (!all.length) return '';
+    return `<div class="cat-group">
+      <a class="cg-head" href="${catUrl(c.slug)}"><span class="name">${esc(c.name)}</span><span class="n">${all.length} bài</span></a>
+      ${shown.map(p => `<a class="cg-post" href="${p.url}"><span class="title">${esc(p.title)}</span><span class="date">${fmtDate(p.date)}</span></a>`).join('')}
+      <a class="cg-more" href="${catUrl(c.slug)}">Xem tất cả ${esc(c.name)} →</a>
+    </div>`;
+  }).join('')}</div>
 </section>` : ''}
 </main>
 ${footer()}`;
@@ -214,7 +223,7 @@ function postPage(p, posts) {
   const others = posts.filter(x => x !== p);
   const next = [...others.filter(x => x.category === p.category), ...others.filter(x => x.category !== p.category)].slice(0, 3);
   const c = catBySlug[p.category];
-  const toc = p.toc.length >= 2 ? `<aside class="toc"><p>Mục lục</p><ol>${p.toc.map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></aside>` : '<aside class="toc" aria-hidden="true"></aside>';
+  const toc = p.toc.length >= 2 ? `<details class="toc" data-toc><summary><span>Mục lục <span class="n">· ${p.toc.length} mục</span></span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><ol>${p.toc.map(t => `<li><a href="#${t.id}">${esc(t.text)}</a></li>`).join('')}</ol></details>` : '<aside class="toc" aria-hidden="true"></aside>';
   const body = `${header(p.category)}
 <main>
 <article>

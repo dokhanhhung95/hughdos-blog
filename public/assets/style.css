@@ -108,7 +108,7 @@ img { max-width: 100%; height: auto; }
 .post-row .ex { font-size: 16px; font-weight: 300; color: var(--muted); }
 .post-row .cat { flex: 0 0 120px; font-size: 14px; color: var(--muted); }
 .post-row .date { flex: 0 0 96px; font-size: 14px; color: var(--muted); text-align: right; }
-.list-end { border-top: 1px solid var(--field); }
+.list-end { display: none; }
 .text-link { font-size: 14px; border-bottom: 1px solid var(--field); padding-bottom: 2px; }
 @media (max-width: 767px) { .post-row .date { text-align: left; } }
 @media (prefers-reduced-motion: reduce) { .post-row, .top-nav a, .hero-nav a { transition: none; } }
@@ -160,6 +160,31 @@ img { max-width: 100%; height: auto; }
 .all-posts { padding-top: 120px; }
 .section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 24px; }
 .section-head h2 { margin: 0; font-size: 14px; font-weight: 400; color: var(--muted); }
+.section-head { margin-bottom: 32px; }
+.cat-groups { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 56px 40px; }
+.cat-group { display: flex; flex-direction: column; min-width: 0; }
+.cg-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding-bottom: 16px; border-bottom: 1px solid var(--fg); }
+.cg-head .name { font-size: 28px; font-weight: 300; line-height: 1.1; letter-spacing: -0.03em; transition: color .3s; }
+.cg-head .n { font-size: 13px; color: var(--muted); }
+.cg-head:hover { color: var(--fg); }
+.cg-head:hover .name { color: var(--red); }
+.cg-post { display: flex; flex-direction: column; gap: 6px; padding: 20px 0; border-bottom: 1px solid var(--field); transition: transform .5s cubic-bezier(.2,.7,.1,1); }
+.cg-post:hover { color: var(--fg); transform: translateX(6px); }
+.cg-post .title { font-size: 18px; font-weight: 400; line-height: 1.35; letter-spacing: -0.01em; }
+.cg-post .date { font-size: 13px; color: var(--muted); }
+.cg-post:nth-last-child(2) { border-bottom: 0; }
+.cg-more { margin-top: 16px; font-size: 14px; color: var(--muted); }
+.cg-more:hover { color: var(--fg); }
+@media (max-width: 767px) {
+  .section-head { margin-bottom: 24px; }
+  .cat-groups { grid-template-columns: 1fr; gap: 40px; }
+  .cg-head { padding-bottom: 12px; }
+  .cg-head .name { font-size: 26px; }
+  .cg-post { gap: 4px; padding: 16px 0; }
+  .cg-post .title { font-size: 17px; }
+  .cg-more { display: inline-flex; align-items: center; min-height: 40px; margin-top: 4px; }
+}
+@media (prefers-reduced-motion: reduce) { .cg-post { transition: none; } }
 @media (max-width: 767px) {
   .latest { padding-top: 40px; }
   .latest-inner { display: flex; flex-direction: column; }
@@ -178,7 +203,9 @@ img { max-width: 100%; height: auto; }
 .post-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .post-body { padding-top: 80px; display: flex; flex-wrap: wrap; gap: 64px; align-items: flex-start; }
 .toc { flex: 1 1 200px; max-width: 240px; font-size: 14px; position: sticky; top: 32px; }
-.toc p { margin: 0 0 16px; color: var(--muted); }
+.toc summary { list-style: none; margin: 0 0 16px; color: var(--muted); pointer-events: none; }
+.toc summary::-webkit-details-marker { display: none; }
+.toc summary .n, .toc summary svg { display: none; }
 .toc ol { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 14px; }
 .toc a { display: inline-block; color: var(--muted); transition: transform .5s cubic-bezier(.2,.7,.1,1), color .3s; }
 .toc a:hover, .toc a.active { color: var(--fg); }
@@ -227,7 +254,12 @@ img { max-width: 100%; height: auto; }
   .post-head { padding-top: 38px; padding-bottom: 34px; }
   .post-head h1 { font-size: 40px; }
   .post-body { padding-top: 48px; gap: 40px; }
-  .toc { position: static; max-width: none; }
+  .toc { position: static; max-width: none; flex-basis: 100%; border-top: 1px solid var(--field); border-bottom: 1px solid var(--field); }
+  .toc summary { margin: 0; min-height: 52px; display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--fg); font-weight: 500; cursor: pointer; pointer-events: auto; }
+  .toc summary .n { display: inline; font-weight: 400; color: var(--muted); }
+  .toc summary svg { display: block; color: var(--muted); transition: transform .3s; }
+  .toc[open] summary svg { transform: rotate(180deg); }
+  .toc ol { padding: 4px 0 20px; }
   .toc:empty { display: none; }
   .prose { font-size: 17px; line-height: 1.75; }
   .prose > p:first-of-type { font-size: 20px; }

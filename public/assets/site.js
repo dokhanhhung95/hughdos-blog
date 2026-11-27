@@ -161,6 +161,15 @@
       if (navigator.clipboard) navigator.clipboard.writeText(location.href.split('#')[0]).then(done, done); else done();
     });
   });
+  // Mục lục: desktop luôn mở, mobile mặc định thu gọn
+  var tocBox = document.querySelector('[data-toc]');
+  if (tocBox) {
+    var mq = matchMedia('(min-width: 768px)');
+    var syncToc = function () { if (mq.matches) tocBox.open = true; else tocBox.open = false; };
+    syncToc();
+    if (mq.addEventListener) mq.addEventListener('change', syncToc);
+    tocBox.querySelectorAll('a').forEach(function (a) { a.addEventListener('click', function () { if (!mq.matches) tocBox.open = false; }); });
+  }
   var tocLinks = document.querySelectorAll('.toc a');
   if (tocLinks.length && 'IntersectionObserver' in window) {
     var byId = {};
