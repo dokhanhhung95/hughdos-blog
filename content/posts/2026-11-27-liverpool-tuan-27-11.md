@@ -1,5 +1,5 @@
 ---
-title: "Liverpool tuần này (27/11): Hai trận, bảy bàn, sạch lưới trước derby"
+title: "Điểm tin Liverpool 27/11: Hai trận, bảy bàn, sạch lưới trước derby Merseyside"
 date: 2026-11-27
 category: football
 tags: ["Liverpool", "Premier League"]
