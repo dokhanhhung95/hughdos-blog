@@ -12,7 +12,7 @@
 
 ## Trình bày
 - Tiêu đề phần dùng `##` (và `###` nếu cần), **không đánh số**.
-- Thuật ngữ tiếng Anh: in đậm kèm giải nghĩa trong ngoặc lần đầu, ví dụ **Faith** (đức tin).
+- Tên riêng (nhân vật, vật phẩm, tổ chức, bệnh, quái vật… như Legion, Red Eye, Grimoire Weiss, Shadowlord, Black Scrawl): in đậm lần đầu, GIỮ NGUYÊN tiếng Anh, KHÔNG dịch, không thêm nghĩa tiếng Việt trong ngoặc. Chỉ giải nghĩa thuật ngữ thông thường khi thật cần.
 - Gạch đầu dòng dạng `- **Nhãn:** nội dung` khi liệt kê, so sánh; bảng khi so sánh nhiều chiều.
 - Trích dẫn dùng `>`.
 - Độ dài 1.500–2.500 từ. Đoạn văn ngắn, dễ đọc lướt.
