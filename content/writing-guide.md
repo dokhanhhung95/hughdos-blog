@@ -7,7 +7,7 @@
 - **Kể cốt truyện**: câu ngắn, gãy gọn, đời thường. Không bình luận, không ý kiến chủ quan, không câu hỏi tu từ hướng vào người đọc.
 - **Phân tích / bài ý nghĩa**: lúc này mới đưa quan điểm cá nhân vào; vẫn hạn chế ngôi xưng, ưu tiên lập luận dựa trên nhân vật và chi tiết trong game.
 - Giọng đời thường, thật, gọn; phân tích thì sắc.
-- Mở bài bằng một hình ảnh hoặc sự kiện cụ thể trong game, ngắn gọn.
+- Mở bài cực ngắn, một câu là đủ, đi thẳng vào chuyện (vd. "Mọi chuyện bắt đầu vào năm 2003, ở Shinjuku, Tokyo."). Không giới thiệu bài, không cảnh báo spoiler dài dòng.
 - Kết bài ngắn. Bài kể chuyện: khép lại bằng sự kiện/nhân vật. Bài phân tích: được phép chiêm nghiệm. Không tóm tắt khô kiểu "Tóm lại…".
 
 ## Trình bày
