@@ -4,6 +4,7 @@ date: 2019-07-20
 category: more
 tags: []
 cover: /images/2019/07/m6rt4myfq7ct8j9m2aec_jakegivens-sunset-in-the-park.webp
+archived: true
 wp_url: /2019/07/20/cau-chuyen-thang-que-an-quan-coi-xay-va-thang-chot-lam-vua-xu-mu/
 ---
 

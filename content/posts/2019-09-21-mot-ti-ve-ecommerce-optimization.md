@@ -4,6 +4,7 @@ date: 2019-09-21
 category: design
 tags: []
 cover: /images/2019/09/group-124.1-1.webp
+archived: true
 wp_url: /2019/09/21/mot-ti-ve-ecommerce-optimization/
 ---
 

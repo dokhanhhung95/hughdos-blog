@@ -303,6 +303,7 @@ img { max-width: 100%; height: auto; }
 .feature .ex { font-size: 17px; font-weight: 300; color: var(--text2); }
 .section { padding-top: 80px; }
 .archive-title { margin: 0 0 48px; font-size: clamp(56px, 9vw, 132px); font-weight: 300; line-height: 1; letter-spacing: -0.05em; }
+.archive-lead { margin: -24px 0 48px; max-width: 560px; font-size: 18px; font-weight: 300; line-height: 1.6; color: var(--text2); }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 56px; }
 .chip { height: 40px; padding: 0 18px; border-radius: 999px; border: 1px solid var(--field); background: transparent; color: var(--fg); font: 400 14px 'Be Vietnam Pro', sans-serif; cursor: pointer; transition: background-color .3s, color .3s, border-color .3s; }
 .chip .n { opacity: .6; }

@@ -35,6 +35,7 @@ collections:
       - { label: Design, field: category, pattern: design }
       - { label: More, field: category, pattern: more }
       - { label: Bản nháp, field: draft, pattern: true }
+      - { label: Lưu trữ, field: archived, pattern: true }
     fields:
       - { label: Tiêu đề, name: title, widget: string }
       - { label: Ngày đăng, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm", date_format: "DD.MM.YYYY", time_format: "HH:mm", hint: "Giờ đăng dùng để xếp thứ tự các bài cùng ngày." }
@@ -51,6 +52,7 @@ collections:
       - { label: Ảnh bìa, name: cover, widget: image, required: false, hint: "Nên dùng ảnh ngang, rộng tối thiểu 1600px." }
       - { label: Tóm tắt, name: excerpt, widget: text, required: false, hint: "Bỏ trống thì tự lấy đoạn đầu tiên." }
       - { label: Bản nháp, name: draft, widget: boolean, default: false, required: false, hint: "Bật lên thì bài chưa hiện trên site." }
+      - { label: Lưu trữ, name: archived, widget: boolean, default: false, required: false, hint: "Bật lên thì bài chuyển vào mục Lưu trữ ở chân trang: ẩn khỏi trang chủ, chuyên mục và Tất cả bài viết, link cũ vẫn mở được." }
       - { label: Nội dung, name: body, widget: markdown }
 
   - name: ideas

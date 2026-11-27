@@ -4,6 +4,7 @@ date: 2019-07-20
 category: design
 tags: ["chia sẻ", "Design"]
 cover: /images/2019/07/0561b-1ozil58jfxpy_rqflqtqckq.webp
+archived: true
 wp_url: /2019/07/20/thiet-ke-he-thong-ecommerce-va-nhung-kien-thuc-can-phai-tim-hieu/
 ---
 

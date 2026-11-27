@@ -86,7 +86,7 @@ function loadPosts() {
     const excerpt = data.excerpt || clip(stripTags(firstP) || text, 180);
     const cover = data.cover || (html.match(/<img[^>]+src="([^"]+)"/) || [])[1] || '';
     posts.push({ file, title: data.title, date, stamp: stamp.length > 10 ? stamp.replace(' ', 'T') : stamp + 'T00:00', category, tags: Array.isArray(data.tags) ? data.tags : [], url, cover,
-      excerpt, html, toc, readMin: Math.max(1, Math.round(words / 220)), draft: !!data.draft });
+      excerpt, html, toc, readMin: Math.max(1, Math.round(words / 220)), draft: !!data.draft, archived: !!data.archived });
   }
   return posts.sort((a, b) => b.stamp.localeCompare(a.stamp) || a.title.localeCompare(b.title));
 }
@@ -115,7 +115,7 @@ function header(current) {
 
 const footer = () => `<footer class="site-footer"><div class="inner">
   <span class="copy">© ${new Date().getFullYear()} ${esc(site.title)}</span>
-  <nav aria-label="Liên kết cuối trang"><a href="/tat-ca/">Tất cả bài viết</a><a href="/gioi-thieu/">Giới thiệu</a><a href="/rss.xml">RSS</a><a href="mailto:${esc(site.email)}">${esc(site.email)}</a></nav>
+  <nav aria-label="Liên kết cuối trang"><a href="/tat-ca/">Tất cả bài viết</a><a href="/luu-tru/">Lưu trữ</a><a href="/gioi-thieu/">Giới thiệu</a><a href="/rss.xml">RSS</a><a href="mailto:${esc(site.email)}">${esc(site.email)}</a></nav>
 </div></footer>`;
 
 function layout({ title, description, url, body, image, type = 'website', bodyClass = '' }) {
@@ -230,7 +230,7 @@ function postPage(p, posts) {
 <main>
 <article>
   <header class="post-head wrap">
-    <p class="eyebrow"><span class="dash"></span><a class="c" href="${catUrl(c.slug)}">${esc(c.name)}</a><time datetime="${p.date}">${fmtDate(p.date)}</time><span>${p.readMin} phút đọc</span>${p.draft ? '<span>Bản nháp</span>' : ''}</p>
+    <p class="eyebrow"><span class="dash"></span><a class="c" href="${catUrl(c.slug)}">${esc(c.name)}</a><time datetime="${p.date}">${fmtDate(p.date)}</time><span>${p.readMin} phút đọc</span>${p.draft ? '<span>Bản nháp</span>' : ''}${p.archived ? '<a href="/luu-tru/">Lưu trữ</a>' : ''}</p>
     <h1>${esc(p.title)}</h1>
   </header>
   ${p.cover ? `<div class="wrap"><figure class="post-cover" style="margin:0">${coverImg(p.cover, p.title, true)}</figure></div>` : ''}
@@ -270,20 +270,20 @@ ${footer()}`;
   return layout({ title: c.name, description: c.description, url: catUrl(c.slug), body });
 }
 
-function archivePage(posts) {
+function archivePage(posts, { title = 'Tất cả bài viết', url = '/tat-ca/', lead = '' } = {}) {
   const years = [...new Set(posts.map(p => p.date.slice(0, 4)))];
   const chips = [`<button type="button" class="chip" data-filter="all" aria-pressed="true">Tất cả <span class="n">${posts.length}</span></button>`,
     ...cats.map(c => { const n = posts.filter(p => p.category === c.slug).length; return n ? `<button type="button" class="chip" data-filter="${c.slug}" aria-pressed="false">${esc(c.name)} <span class="n">${n}</span></button>` : ''; })].join('');
   const body = `${header('')}
 <main class="wrap">
   <section class="page-head">
-    <h1 class="archive-title">Tất cả bài viết</h1>
+    <h1 class="archive-title">${title}</h1>${lead ? `<p class="archive-lead">${esc(lead)}</p>` : ''}
     <div class="chips" role="group" aria-label="Lọc theo chuyên mục">${chips}</div>
     ${years.map(y => `<div class="year-group" data-year="${y}"><h2>${y}</h2><div class="list">${posts.filter(p => p.date.startsWith(y)).map(p => postRow(p)).join('')}<div class="list-end"></div></div></div>`).join('')}
   </section>
 </main>
 ${footer()}`;
-  return layout({ title: 'Tất cả bài viết', url: '/tat-ca/', body });
+  return layout({ title, description: lead || undefined, url, body });
 }
 
 function searchPage() {
@@ -364,18 +364,21 @@ function build() {
   fs.cpSync(path.join(ROOT, 'public'), OUT, { recursive: true });
   const posts = loadPosts();
   const published = posts.filter(p => !p.draft);
-  const listed = SHOW_DRAFTS ? posts : published;
+  const visible = SHOW_DRAFTS ? posts : published;
+  const listed = visible.filter(p => !p.archived);      // bài đang hiện ở trang chủ, chuyên mục, Tất cả bài viết
+  const archived = visible.filter(p => p.archived);     // bài trong mục Lưu trữ (chân trang)
 
   write('index.html', homePage(listed));
   for (const p of posts) write(p.url + 'index.html', postPage(p, listed));
   for (const c of cats) write(catUrl(c.slug) + 'index.html', categoryPage(c, listed));
   write('tat-ca/index.html', archivePage(listed));
+  write('luu-tru/index.html', archivePage(archived, { title: 'Lưu trữ', url: '/luu-tru/', lead: 'Những bài viết cũ từ thuở blog còn ở WordPress, giữ lại làm kỷ niệm.' }));
   write('tim-kiem/index.html', searchPage());
   write('gioi-thieu/index.html', aboutPage());
   write('404.html', notFoundPage());
-  write('rss.xml', rss(published));
-  write('search-index.json', JSON.stringify(listed.map(p => ({ t: p.title, u: p.url, c: catBySlug[p.category].name, d: fmtDate(p.date), e: p.excerpt, k: p.tags.join(' '), b: clip(stripTags(p.html), 4000) }))));
-  const urls = ['/', '/tat-ca/', '/gioi-thieu/', ...cats.map(c => catUrl(c.slug)), ...published.map(p => p.url)];
+  write('rss.xml', rss(published.filter(p => !p.archived)));
+  write('search-index.json', JSON.stringify(visible.map(p => ({ t: p.title, u: p.url, c: catBySlug[p.category].name, d: fmtDate(p.date), e: p.excerpt, k: p.tags.join(' '), b: clip(stripTags(p.html), 4000) }))));
+  const urls = ['/', '/tat-ca/', '/luu-tru/', '/gioi-thieu/', ...cats.map(c => catUrl(c.slug)), ...published.map(p => p.url)];
   write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `<url><loc>${SITE_URL}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
   write('robots.txt', `User-agent: *\nDisallow: /admin/\nSitemap: ${SITE_URL}/sitemap.xml\n`);
   console.log(`✓ ${posts.length} bài, ${cats.length} chuyên mục → dist/ (${Date.now() - t0}ms)`);
