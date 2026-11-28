@@ -16,7 +16,7 @@ Một kịch bản rất quen của nhiều Designer khi mới thử dùng AI: m
 
 Vấn đề không nằm ở việc AI yếu. Vấn đề là chúng ta đang dùng AI như một cái máy bán hàng tự động: thả một câu prompt vào và đòi nó nhả ra thành phẩm đem đi code ngay.
 
-Ở bài trước, mình đã nói về _vì sao_ Designer vẫn còn chỗ đứng khi AI đã biết vẽ UI. Bài này nói về _làm thế nào_: với những sản phẩm đặc thù và nhiều ràng buộc như app ngân hàng, AI chỉ thực sự phát huy sức mạnh khi được đặt vào đúng 4 điểm chạm trong quy trình thiết kế.
+[Ở bài trước](https://hughdo.com/2026/07/30/ai-v%E1%BA%BD-%C4%91%C6%B0%E1%BB%A3c-ui-r%E1%BB%93i-v%E1%BA%ADy-designer-c%C3%B2n-l%C3%A0m-g%C3%AC/), mình đã nói về _vì sao_ Designer vẫn còn chỗ đứng khi AI đã biết vẽ UI. Bài này nói về _làm thế nào_: với những sản phẩm đặc thù và nhiều ràng buộc như app ngân hàng, AI chỉ thực sự phát huy sức mạnh khi được đặt vào đúng 4 điểm chạm trong quy trình thiết kế.
 
 ## 1. Bắt AI đi "vét" góc khuất, đừng chỉ bắt nó vẽ đường đẹp
 
