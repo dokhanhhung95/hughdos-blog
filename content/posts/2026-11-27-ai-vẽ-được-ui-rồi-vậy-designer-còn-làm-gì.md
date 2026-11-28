@@ -12,7 +12,7 @@ draft: false
 archived: false
 ---
 
-chu có thể ngốn của Designer cả buổi sáng. Giờ thì vài dòng prompt là đủ: AI gợi ý luồng người dùng, phối màu, đẻ ra hàng loạt phương án UI, thậm chí xuất thẳng ra code chạy được, tất cả trong vài chục giây.
+Chỉ vài năm trước, dựng một bộ wireframe hoàn chỉnh hay một màn hình onboarding chỉn chu có thể ngốn của Designer cả buổi sáng. Giờ thì vài dòng prompt là đủ: AI gợi ý luồng người dùng, phối màu, đẻ ra hàng loạt phương án UI, thậm chí xuất thẳng ra code chạy được, tất cả trong vài chục giây.
 
 Vậy nên câu hỏi "Designer có bị thay thế không?" là hoàn toàn chính đáng. Kỷ nguyên của "thợ vẽ giao diện" (pixel pusher) đang khép lại. Khi một giao diện "đẹp và đúng chuẩn" không còn là lợi thế độc quyền, giá trị của Designer dịch chuyển sang 4 năng lực mà AI chưa với tới.
 
